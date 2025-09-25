@@ -248,5 +248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b5/Hero184-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164721",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
     "sort": "4"
+  },
+  "Lunox-632x3dcczf": {
+    "key": "Lunox-632x3dcczf",
+    "hero": "Lunox",
+    "skin_name": "Basic",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20basic%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
+    "img2": "https://pbs.twimg.com/media/GyTjhSja4AIl3w1?format=jpg&name=small",
+    "sort": "2"
   }
 }
