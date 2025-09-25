@@ -138,5 +138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165011",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero328-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045307",
     "sort": "2"
+  },
+  "Johnson-dot55zkoxr": {
+    "key": "Johnson-dot55zkoxr",
+    "hero": "Johnson",
+    "skin_name": "Special",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20special%20to%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero326-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero328-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045307",
+    "sort": "6"
   }
 }
