@@ -318,5 +318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20aspirants.jpg",
     "sort": "5"
+  },
+  "Vexana-h2z1hvpxig": {
+    "key": "Vexana-h2z1hvpxig",
+    "hero": "Vexana",
+    "skin_name": "Zenith",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20zenith%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20aspirants.jpg",
+    "sort": "7"
   }
 }
