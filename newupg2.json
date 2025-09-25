@@ -128,5 +128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125905",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero1213-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20240301100721",
     "sort": "2"
+  },
+  "Ixia-xa79jdyupd": {
+    "key": "Ixia-xa79jdyupd",
+    "hero": "Ixia",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ixia%20basic%20to%20star%20painted2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125905",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1213-color02-portrait.png/revision/latest/scale-to-width-down/150?cb=20240301100856",
+    "sort": "2"
   }
 }
