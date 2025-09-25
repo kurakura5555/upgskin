@@ -88,5 +88,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114135706",
     "sort": "2"
+  },
+  "Guinevere-8eb8q5ma7x": {
+    "key": "Guinevere-8eb8q5ma7x",
+    "hero": "Guinevere",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165909",
+    "sort": "2"
   }
 }
