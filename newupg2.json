@@ -358,5 +358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero837-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053624",
     "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
     "sort": "7"
+  },
+  "X-Borg-t7y0rq5dh6": {
+    "key": "X-Borg-t7y0rq5dh6",
+    "hero": "X-Borg",
+    "skin_name": "Transformers",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20transformers%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
+    "sort": "6"
   }
 }
