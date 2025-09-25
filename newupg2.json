@@ -258,5 +258,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero682-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165713",
     "img2": "https://pbs.twimg.com/media/GyTjhSja4AIl3w1?format=jpg&name=small",
     "sort": "2"
+  },
+  "Lunox-qe466xmlpt": {
+    "key": "Lunox-qe466xmlpt",
+    "hero": "Lunox",
+    "skin_name": "Basic",
+    "skin_name2": "Elite",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/minsitthar%20basic%20to%20elite%20s.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100603",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD2_h9gzRqNcf1oHR0wXUZ_kbSPzRn9Fw04A&s",
+    "sort": "2"
   }
 }
