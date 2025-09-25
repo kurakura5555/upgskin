@@ -18198,35 +18198,5 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1233-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109154349",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRLM70MZiY4BWqHrU4_Wh_cjBjHyQtb1yokE4m6uPCOr2frkHUz4iYQUM&s=10",
     "sort": "3"
-  },
-  "Fanny-i98pt384mj": {
-    "key": "Fanny-i98pt384mj",
-    "hero": "Fanny",
-    "skin_name": "Aot",
-    "skin_name2": "Anniversary",
-    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20aot%20to%20anniversary.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
-    "sort": "12"
-  },
-  "Fanny-ptzwju151s": {
-    "key": "Fanny-ptzwju151s",
-    "hero": "Fanny",
-    "skin_name": "Aspirants",
-    "skin_name2": "Anniversary",
-    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20aspirants%20to%20anniversary.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
-    "sort": "10"
-  },
-  "Fanny-ud85z648un": {
-    "key": "Fanny-ud85z648un",
-    "hero": "Fanny",
-    "skin_name": "Basic",
-    "skin_name2": "Anniversary",
-    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20basic%20s%20to%20anniversary.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164709",
-    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
-    "sort": "9"
   }
 }
