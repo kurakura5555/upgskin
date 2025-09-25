@@ -38,5 +38,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/10/Hero174-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164704",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
     "sort": "4"
+  },
+  "Fanny-dj2unmetxh": {
+    "key": "Fanny-dj2unmetxh",
+    "hero": "Fanny",
+    "skin_name": "Season",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20season%20to%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164703",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
+    "sort": "3"
   }
 }
