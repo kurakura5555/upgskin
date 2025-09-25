@@ -348,5 +348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045031",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zhuxin%20anniversary.jpg",
     "sort": "3"
+  },
+  "X-Borg-ifwlhu949w": {
+    "key": "X-Borg-ifwlhu949w",
+    "hero": "X-Borg",
+    "skin_name": "Mcgg",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20mcgg%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero837-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053624",
+    "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
+    "sort": "7"
   }
 }
