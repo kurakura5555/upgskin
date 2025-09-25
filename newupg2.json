@@ -158,5 +158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero182-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164719",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
     "sort": "2"
+  },
+  "Layla-ky7nv29nvy": {
+    "key": "Layla-ky7nv29nvy",
+    "hero": "Layla",
+    "skin_name": "Aspirants",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20aspirants%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164729",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
+    "sort": "9"
   }
 }
