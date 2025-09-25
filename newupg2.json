@@ -168,5 +168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero189-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164729",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
     "sort": "9"
+  },
+  "Layla-etjhsudc1s": {
+    "key": "Layla-etjhsudc1s",
+    "hero": "Layla",
+    "skin_name": "Blazing",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20blazing%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero188-portrait.png/revision/latest/scale-to-width-down/150?cb=20250105132639",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
+    "sort": "8"
   }
 }
