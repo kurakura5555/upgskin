@@ -198,5 +198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/22/Hero186-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164723",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
     "sort": "6"
+  },
+  "Layla-grfcp1cfu4": {
+    "key": "Layla-grfcp1cfu4",
+    "hero": "Layla",
+    "skin_name": "Collector",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/layla%20collector%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero101811-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172008",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/layla%20nexus%20sea.jpg",
+    "sort": "11"
   }
 }
