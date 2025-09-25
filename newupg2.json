@@ -8,5 +8,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
     "sort": "8"
+  },
+  "Fanny-g3x2eege7c": {
+    "key": "Fanny-g3x2eege7c",
+    "hero": "Fanny",
+    "skin_name": "Elite",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20elite%20to%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
+    "sort": "2"
   }
 }
