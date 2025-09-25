@@ -98,5 +98,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165909",
     "sort": "2"
+  },
+  "Gusion-l0irufixpg": {
+    "key": "Gusion-l0irufixpg",
+    "hero": "Gusion",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest/scale-to-width-down/150?cb=20220909095408",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
+    "sort": "2"
   }
 }
