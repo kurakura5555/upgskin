@@ -278,5 +278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20aspirants.jpg",
     "sort": "2"
+  },
+  "Vexana-8k653whgeu": {
+    "key": "Vexana-8k653whgeu",
+    "hero": "Vexana",
+    "skin_name": "Collector",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20collector%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20aspirants.jpg",
+    "sort": "6"
   }
 }
