@@ -338,5 +338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest/scale-to-width-down/150?cb=20240815082622",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zhuxin%20anniversary.jpg",
     "sort": "2"
+  },
+  "Zhuxin-rgia2w6w9f": {
+    "key": "Zhuxin-rgia2w6w9f",
+    "hero": "Zhuxin",
+    "skin_name": "Star",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhuxin%20star%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero1253-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045031",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zhuxin%20anniversary.jpg",
+    "sort": "3"
   }
 }
