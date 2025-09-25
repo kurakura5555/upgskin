@@ -128,5 +128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero1212-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125905",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1213-color02-portrait.png/revision/latest/scale-to-width-down/150?cb=20240301100856",
     "sort": "2"
+  },
+  "Johnson-x68b4ro94r": {
+    "key": "Johnson-x68b4ro94r",
+    "hero": "Johnson",
+    "skin_name": "Basic",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/johnson%20basic%20to%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero322-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165011",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero328-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045307",
+    "sort": "2"
   }
 }
