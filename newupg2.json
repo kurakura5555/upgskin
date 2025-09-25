@@ -58,5 +58,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
     "sort": "5"
+  },
+  "Fanny-nlaz2sczeg": {
+    "key": "Fanny-nlaz2sczeg",
+    "hero": "Fanny",
+    "skin_name": "Summer",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20summer%20to%20anniversary.zip",
+    "img": "https://pbs.twimg.com/media/GvfSbyBacAA-Nwz?format=jpg&name=small",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
+    "sort": "6"
   }
 }
