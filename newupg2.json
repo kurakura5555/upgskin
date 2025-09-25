@@ -268,5 +268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero742-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100603",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD2_h9gzRqNcf1oHR0wXUZ_kbSPzRn9Fw04A&s",
     "sort": "2"
+  },
+  "Vexana-qjtoe1ldxa": {
+    "key": "Vexana-qjtoe1ldxa",
+    "hero": "Vexana",
+    "skin_name": "Basic",
+    "skin_name2": "Aspirants",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20basic%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20aspirants.jpg",
+    "sort": "2"
   }
 }
