@@ -78,5 +78,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
     "sort": "11"
+  },
+  "Guinevere-9j6grb1p6a": {
+    "key": "Guinevere-9j6grb1p6a",
+    "hero": "Guinevere",
+    "skin_name": "Basic",
+    "skin_name2": "Elite",
+    "download": "https://github.com/KANEKIML/UpSkin2/raw/refs/heads/main/guinevere%20basic%20elite%20s.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114135706",
+    "sort": "2"
   }
 }
