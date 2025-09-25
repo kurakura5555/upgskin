@@ -328,5 +328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20aspirants.jpg",
     "sort": "7"
+  },
+  "Zhuxin-h8qdin0gv7": {
+    "key": "Zhuxin-h8qdin0gv7",
+    "hero": "Zhuxin",
+    "skin_name": "Basic",
+    "skin_name2": "Anniversary",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhuxin%20basic%20anniversary.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest/scale-to-width-down/150?cb=20240815082622",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zhuxin%20anniversary.jpg",
+    "sort": "2"
   }
 }
