@@ -428,5 +428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114155034",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/joy%20champion.jpg",
     "sort": "3"
+  },
+  "Joy-mbtmzh207j": {
+    "key": "Joy-mbtmzh207j",
+    "hero": "Joy",
+    "skin_name": "Star",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/joy%20star%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero1185-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123928",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/joy%20champion.jpg",
+    "sort": "4"
   }
 }
