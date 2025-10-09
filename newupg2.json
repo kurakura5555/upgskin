@@ -608,5 +608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero106810-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619175050",
     "img2": "https://pbs.twimg.com/media/GyTjhSja4AIl3w1?format=jpg&name=small",
     "sort": "10"
+  },
+  "Karrie-xvi3p7ti6g": {
+    "key": "Karrie-xvi3p7ti6g",
+    "hero": "Karrie",
+    "skin_name": "Elite",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20elite%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero683-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165714",
+    "img2": "https://pbs.twimg.com/media/GyTjhSja4AIl3w1?format=jpg&name=small",
+    "sort": "3"
   }
 }
