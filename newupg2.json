@@ -688,5 +688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164422",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/tigreal%20collector.jpg",
     "sort": "4"
+  },
+  "Tigreal-075xweobv4": {
+    "key": "Tigreal-075xweobv4",
+    "hero": "Tigreal",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164424",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/tigreal%20collector.jpg",
+    "sort": "6"
   }
 }
