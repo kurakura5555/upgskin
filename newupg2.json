@@ -768,5 +768,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
     "sort": "4"
+  },
+  "Alice-bhtba59wci": {
+    "key": "Alice-bhtba59wci",
+    "hero": "Alice",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20star%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164352",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
+    "sort": "5"
   }
 }
