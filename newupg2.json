@@ -398,5 +398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero1057-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043918",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
     "sort": "7"
+  },
+  "Beatrix-j6bprb47g5": {
+    "key": "Beatrix-j6bprb47g5",
+    "hero": "Beatrix",
+    "skin_name": "Star",
+    "skin_name2": "Fmvp",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20star%20to%20fmvp.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170423",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
+    "sort": "4"
   }
 }
