@@ -508,5 +508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero258-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121143",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
     "sort": "8"
+  },
+  "Kagura-rvml71zuhz": {
+    "key": "Kagura-rvml71zuhz",
+    "hero": "Kagura",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://github.com/KANEKIML/UpSkin2/raw/refs/heads/main/kagura%20special%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero253-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164841",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
+    "sort": "3"
   }
 }
