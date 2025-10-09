@@ -368,5 +368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
     "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
     "sort": "6"
+  },
+  "Beatrix-2j541kfqo0": {
+    "key": "Beatrix-2j541kfqo0",
+    "hero": "Beatrix",
+    "skin_name": "M4",
+    "skin_name2": "Fmvp",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20m4%20to%20fmvp.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
+    "sort": "5"
   }
 }
