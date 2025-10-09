@@ -698,5 +698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164424",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/tigreal%20collector.jpg",
     "sort": "6"
+  },
+  "Yin-tdzx9iftvb": {
+    "key": "Yin-tdzx9iftvb",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yin%20collector.jpg",
+    "sort": "2"
   }
 }
