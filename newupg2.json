@@ -418,5 +418,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest/scale-to-width-down/150?cb=20221021123853",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/joy%20champion.jpg",
     "sort": "2"
+  },
+  "Joy-oymxse2x9f": {
+    "key": "Joy-oymxse2x9f",
+    "hero": "Joy",
+    "skin_name": "Elite",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/joy%20elite%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1184-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114155034",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/joy%20champion.jpg",
+    "sort": "3"
   }
 }
