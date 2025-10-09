@@ -468,5 +468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero252-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164840",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
     "sort": "2"
+  },
+  "Kagura-j215ml17wh": {
+    "key": "Kagura-j215ml17wh",
+    "hero": "Kagura",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://github.com/KANEKIML/UpSkin2/raw/refs/heads/main/kagura%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
+    "sort": "10"
   }
 }
