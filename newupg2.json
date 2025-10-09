@@ -558,5 +558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero409-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165151",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero104011-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144301",
     "sort": "9"
+  },
+  "Karrie-el2etfnis5": {
+    "key": "Karrie-el2etfnis5",
+    "hero": "Karrie",
+    "skin_name": "Epic",
+    "skin_name2": "Kishin Densetsu",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/karrie%20epic%20to%20kishin%20densetsu.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero407-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165149",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero408-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165150",
+    "sort": "7"
   }
 }
