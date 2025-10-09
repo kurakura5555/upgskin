@@ -438,5 +438,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero1185-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123928",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/joy%20champion.jpg",
     "sort": "4"
+  },
+  "Julian-fup0vjmtet": {
+    "key": "Julian-fup0vjmtet",
+    "hero": "Julian",
+    "skin_name": "Mystic",
+    "skin_name2": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/julian%20mystic%20to%20hxh.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1166-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052541",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1167-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073222",
+    "sort": "4"
   }
 }
