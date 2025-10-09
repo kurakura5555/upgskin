@@ -478,5 +478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/07/Hero102510-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124144",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
     "sort": "10"
+  },
+  "Kagura-5cqps6n9j7": {
+    "key": "Kagura-5cqps6n9j7",
+    "hero": "Kagura",
+    "skin_name": "Annual Star",
+    "skin_name2": "Luckybox",
+    "download": "https://github.com/KANEKIML/UpSkin2/raw/refs/heads/main/kagura%20annual%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/54/Hero257-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164845",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
+    "sort": "7"
   }
 }
