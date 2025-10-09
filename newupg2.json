@@ -628,5 +628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero1193-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129102726",
     "sort": "2"
+  },
+  "Karrie-bkqblb7fzp": {
+    "key": "Karrie-bkqblb7fzp",
+    "hero": "Karrie",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/novaria%20basic%20to%20star%20painted2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1193-color02-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129102749",
+    "sort": "2"
   }
 }
