@@ -18218,5 +18218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164709",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
     "sort": "9"
+  },
+  "Beatrix-q91g8new24": {
+    "key": "Beatrix-q91g8new24",
+    "hero": "Beatrix",
+    "skin_name": "Basic",
+    "skin_name2": "Fmvp",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20basic%20to%20fmvp.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
+    "sort": "2"
   }
 }
