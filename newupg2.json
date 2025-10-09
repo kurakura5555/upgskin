@@ -408,5 +408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/02/Hero1054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170423",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
     "sort": "4"
+  },
+  "Joy-8tjcdiu18w": {
+    "key": "Joy-8tjcdiu18w",
+    "hero": "Joy",
+    "skin_name": "Basic",
+    "skin_name2": "Champion",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/joy%20basic%20to%20champion.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest/scale-to-width-down/150?cb=20221021123853",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/joy%20champion.jpg",
+    "sort": "2"
   }
 }
