@@ -758,5 +758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero046-portrait.png/revision/latest/scale-to-width-down/150?cb=20221012121053",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
     "sort": "6"
+  },
+  "Alice-fl0pu5o4n1": {
+    "key": "Alice-fl0pu5o4n1",
+    "hero": "Alice",
+    "skin_name": "Special",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20special%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
+    "sort": "4"
   }
 }
