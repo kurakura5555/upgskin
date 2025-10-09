@@ -788,5 +788,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164540",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
     "sort": "3"
+  },
+  "Bane-tezzdp8gns": {
+    "key": "Bane-tezzdp8gns",
+    "hero": "Bane",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://github.com/KANEKIML/UpSkin/raw/refs/heads/main/bane%20elite%20s%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164542",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
+    "sort": "5"
   }
 }
