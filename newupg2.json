@@ -718,5 +718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yin%20collector.jpg",
     "sort": "5"
+  },
+  "Yin-xh8r610voj": {
+    "key": "Yin-xh8r610voj",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero502-portrait.png/revision/latest?cb=20220525165325",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero506-portrait.png/revision/latest?cb=20240923124132",
+    "sort": "2"
   }
 }
