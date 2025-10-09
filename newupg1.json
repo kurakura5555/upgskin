@@ -18228,5 +18228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
     "sort": "2"
+  },
+  "Beatrix-qwc5gr0j3f": {
+    "key": "Beatrix-qwc5gr0j3f",
+    "hero": "Beatrix",
+    "skin_name": "Elite",
+    "skin_name2": "Fmvp",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20elite%20to%20fmvp.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170422",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
+    "sort": "3"
   }
 }
