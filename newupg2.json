@@ -638,5 +638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero1193-color02-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129102749",
     "sort": "2"
+  },
+  "Paquito-8kbg2gdm4s": {
+    "key": "Paquito-8kbg2gdm4s",
+    "hero": "Paquito",
+    "skin_name": "Special",
+    "skin_name2": "Fmvp",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20special%20to%20fmvp.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170359",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010138",
+    "sort": "4"
   }
 }
