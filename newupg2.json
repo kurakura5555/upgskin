@@ -728,5 +728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165715",
     "img2": "https://pbs.twimg.com/media/GyTjhSja4AIl3w1?format=jpg&name=small",
     "sort": "4"
+  },
+  "Alice-2022rwmfo2": {
+    "key": "Alice-2022rwmfo2",
+    "hero": "Alice",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250703151404",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
+    "sort": "2"
   }
 }
