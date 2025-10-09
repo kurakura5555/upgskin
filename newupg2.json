@@ -718,5 +718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero502-portrait.png/revision/latest?cb=20220525165325",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero506-portrait.png/revision/latest?cb=20240923124132",
     "sort": "2"
+  },
+  "Lunox-iquid2s5ks": {
+    "key": "Lunox-iquid2s5ks",
+    "hero": "Lunox",
+    "skin_name": "Star",
+    "skin_name2": "Mpl",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20star%20to%20mpl.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero684-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165715",
+    "img2": "https://pbs.twimg.com/media/GyTjhSja4AIl3w1?format=jpg&name=small",
+    "sort": "4"
   }
 }
