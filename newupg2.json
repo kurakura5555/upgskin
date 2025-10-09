@@ -658,5 +658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103142",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010138",
     "sort": "6"
+  },
+  "Tigreal-006xlfkjrn": {
+    "key": "Tigreal-006xlfkjrn",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164420",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/tigreal%20collector.jpg",
+    "sort": "2"
   }
 }
