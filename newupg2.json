@@ -708,5 +708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yin%20collector.jpg",
     "sort": "2"
+  },
+  "Yin-3vq803nstb": {
+    "key": "Yin-3vq803nstb",
+    "hero": "Yin",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yin%20collector.jpg",
+    "sort": "5"
   }
 }
