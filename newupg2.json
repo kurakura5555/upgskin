@@ -838,5 +838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170032",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073218",
     "sort": "2"
+  },
+  "Dyrroth-fglswmcit2": {
+    "key": "Dyrroth-fglswmcit2",
+    "hero": "Dyrroth",
+    "skin_name": "Basic",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/dyrroth%20basic%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170033",
+    "sort": "2"
   }
 }
