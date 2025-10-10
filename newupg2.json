@@ -818,5 +818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
     "sort": "4"
+  },
+  "Dyrroth-o61ecbvqku": {
+    "key": "Dyrroth-o61ecbvqku",
+    "hero": "Dyrroth",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/dyrroth%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170032",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
+    "sort": "2"
   }
 }
