@@ -858,5 +858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073218",
     "sort": "6"
+  },
+  "Dyrroth-7yyuk4ij5x": {
+    "key": "Dyrroth-7yyuk4ij5x",
+    "hero": "Dyrroth",
+    "skin_name": "Collector",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/dyrroth%20collector%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170033",
+    "sort": "6"
   }
 }
