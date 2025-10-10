@@ -948,5 +948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero857-portrait.png/revision/latest/scale-to-width-down/150?cb=20230615180223",
     "sort": "5"
+  },
+  "Dyrroth-6mhqpjyk3t": {
+    "key": "Dyrroth-6mhqpjyk3t",
+    "hero": "Dyrroth",
+    "skin_name": "Venom",
+    "skin_name2": "Hxh",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/dyrroth%20venom%20to%20hxh.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073218",
+    "sort": "5"
   }
 }
