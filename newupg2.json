@@ -988,5 +988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170636",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/xavier%20collector.jpg",
     "sort": "2"
+  },
+  "Xavier-h5e0jso2op": {
+    "key": "Xavier-h5e0jso2op",
+    "hero": "Xavier",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/xavier%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133422",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/xavier%20collector.jpg",
+    "sort": "4"
   }
 }
