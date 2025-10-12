@@ -998,5 +998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133422",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/xavier%20collector.jpg",
     "sort": "4"
+  },
+  "Xavier-0i5czz6rdk": {
+    "key": "Xavier-0i5czz6rdk",
+    "hero": "Xavier",
+    "skin_name": "Clouds",
+    "skin_name2": "Collector",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/xavier%20btc%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/xavier%20collector.jpg",
+    "sort": "5"
   }
 }
