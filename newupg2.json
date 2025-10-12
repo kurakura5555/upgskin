@@ -968,5 +968,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170033",
     "sort": "5"
+  },
+  "Sun-gddpdhvfbc": {
+    "key": "Sun-gddpdhvfbc",
+    "hero": "Sun",
+    "skin_name": "Basic",
+    "skin_name2": "Annual Star",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/sun%20elite%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131101410",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
+    "sort": "2"
   }
 }
