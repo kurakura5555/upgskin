@@ -1028,5 +1028,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
     "sort": "3"
+  },
+  "Sun-6v8cyjcirw": {
+    "key": "Sun-6v8cyjcirw",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Annual Star",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/sun%20special2%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
+    "sort": "4"
   }
 }
