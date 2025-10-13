@@ -1038,5 +1038,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
     "sort": "4"
+  },
+  "Karina-r2qbpjrkp9": {
+    "key": "Karina-r2qbpjrkp9",
+    "hero": "Karina",
+    "skin_name": "Elite",
+    "skin_name2": "Mcgg",
+    "download": "https://github.com/KANEKIML/UpSkin2/raw/refs/heads/main/karina%20basic%20to%20mcgg.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164455",
+    "img2": "https://i.pinimg.com/736x/21/e1/86/21e1860d508db1607fe802a6e03d9685.jpg",
+    "sort": "2"
   }
 }
