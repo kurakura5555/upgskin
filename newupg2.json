@@ -1158,5 +1158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
     "sort": "7"
+  },
+  "Sun-77ata8qctr": {
+    "key": "Sun-77ata8qctr",
+    "hero": "Sun",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Collector",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/sun%20lunar%20fest%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "sort": "7"
   }
 }
