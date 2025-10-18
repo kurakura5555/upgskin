@@ -1178,5 +1178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
     "sort": "5"
+  },
+  "Sun-vdl8p24rcr": {
+    "key": "Sun-vdl8p24rcr",
+    "hero": "Sun",
+    "skin_name": "Star",
+    "skin_name2": "Lunar Fest",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/sun%20star%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "sort": "5"
   }
 }
