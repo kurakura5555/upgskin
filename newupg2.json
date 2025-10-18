@@ -1098,5 +1098,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/50/Hero115-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164542",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/bane%20star.jpg",
     "sort": "5"
+  },
+  "Bane-72irvn0lyt": {
+    "key": "Bane-72irvn0lyt",
+    "hero": "Bane",
+    "skin_name": "Epic",
+    "skin_name2": "Star",
+    "download": "https://github.com/KANEKIML/UpSkin/raw/refs/heads/main/bane%20epic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/bane%20star.jpg",
+    "sort": "2"
   }
 }
