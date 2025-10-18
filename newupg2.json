@@ -1128,5 +1128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164540",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/bane%20star.jpg",
     "sort": "3"
+  },
+  "Bane-uic5mpe64q": {
+    "key": "Bane-uic5mpe64q",
+    "hero": "Bane",
+    "skin_name": "Season",
+    "skin_name2": "Star",
+    "download": "https://github.com/KANEKIML/UpSkin/raw/refs/heads/main/bane%20season%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/bane%20star.jpg",
+    "sort": "4"
   }
 }
