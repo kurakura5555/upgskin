@@ -1168,5 +1168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
     "sort": "7"
+  },
+  "Sun-cnvevjvm4m": {
+    "key": "Sun-cnvevjvm4m",
+    "hero": "Sun",
+    "skin_name": "Star",
+    "skin_name2": "Annual Star",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/sun%20star%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
+    "sort": "5"
   }
 }
