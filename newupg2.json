@@ -1138,5 +1138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e2/Hero114-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164541",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/bane%20star.jpg",
     "sort": "4"
+  },
+  "Bane-77meal8589": {
+    "key": "Bane-77meal8589",
+    "hero": "Bane",
+    "skin_name": "Epic",
+    "skin_name2": "Epic",
+    "download": "https://github.com/KANEKIML/UpSkin/raw/refs/heads/main/bane%20epic%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133645",
+    "sort": "2"
   }
 }
