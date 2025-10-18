@@ -1048,5 +1048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d3/Hero082-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164455",
     "img2": "https://i.pinimg.com/736x/21/e1/86/21e1860d508db1607fe802a6e03d9685.jpg",
     "sort": "2"
+  },
+  "Paquito-15adyt75ph": {
+    "key": "Paquito-15adyt75ph",
+    "hero": "Paquito",
+    "skin_name": "Special",
+    "skin_name2": "Epic",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/paquito%20special%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1034-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170359",
+    "img2": "https://pbs.twimg.com/media/G3DZZ65aYAEcGMW?format=jpg&name=small",
+    "sort": "3"
   }
 }
