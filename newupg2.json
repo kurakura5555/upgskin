@@ -1148,5 +1148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero112-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164539",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133645",
     "sort": "2"
+  },
+  "Sun-ze0yag13ww": {
+    "key": "Sun-ze0yag13ww",
+    "hero": "Sun",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Annual Star",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/sun%20lunar%20fest%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/sun%20annual%20star.jpg",
+    "sort": "7"
   }
 }
