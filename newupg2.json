@@ -1118,5 +1118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero116-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133645",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/bane%20star.jpg",
     "sort": "6"
+  },
+  "Bane-3db6jron8q": {
+    "key": "Bane-3db6jron8q",
+    "hero": "Bane",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://github.com/KANEKIML/UpSkin/raw/refs/heads/main/bane%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero113-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164540",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/bane%20star.jpg",
+    "sort": "3"
   }
 }
