@@ -1308,5 +1308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero913-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170200",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cecilion%20soul%20vessel.jpg",
     "sort": "3"
+  },
+  "Cecilion-1g8n9eu0dq": {
+    "key": "Cecilion-1g8n9eu0dq",
+    "hero": "Cecilion",
+    "skin_name": "Hxh",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cecilion%20hxh%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero917-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073219",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cecilion%20soul%20vessel.jpg",
+    "sort": "7"
   }
 }
