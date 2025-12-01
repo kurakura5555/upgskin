@@ -1218,5 +1218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/benedetta%20soul%20vessel.jpg",
     "sort": "2"
+  },
+  "Benedetta-9r7uv1wqnl": {
+    "key": "Benedetta-9r7uv1wqnl",
+    "hero": "Benedetta",
+    "skin_name": "Collector",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20collector%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero974-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170255",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/benedetta%20soul%20vessel.jpg",
+    "sort": "4"
   }
 }
