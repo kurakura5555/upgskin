@@ -1368,5 +1368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero101310-portrait.png/revision/latest/scale-to-width-down/150?cb=20241209144300",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
     "sort": "10"
+  },
+  "Clint-plgxaydpew": {
+    "key": "Clint-plgxaydpew",
+    "hero": "Clint",
+    "skin_name": "M2",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20m2%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero137-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164602",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
+    "sort": "7"
   }
 }
