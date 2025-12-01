@@ -1398,5 +1398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero136-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164601",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
     "sort": "6"
+  },
+  "Clint-ehiggl3ax7": {
+    "key": "Clint-ehiggl3ax7",
+    "hero": "Clint",
+    "skin_name": "Special",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20special%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero135-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164559",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
+    "sort": "5"
   }
 }
