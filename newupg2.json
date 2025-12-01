@@ -1238,5 +1238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero978-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123911",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/benedetta%20soul%20vessel.jpg",
     "sort": "8"
+  },
+  "Benedetta-cg2o0na3z8": {
+    "key": "Benedetta-cg2o0na3z8",
+    "hero": "Benedetta",
+    "skin_name": "Ducati",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/benedetta%20ducati%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero976-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045324",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/benedetta%20soul%20vessel.jpg",
+    "sort": "6"
   }
 }
