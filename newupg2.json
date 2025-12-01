@@ -1288,5 +1288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170158",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cecilion%20soul%20vessel.jpg",
     "sort": "2"
+  },
+  "Cecilion-637sne43u5": {
+    "key": "Cecilion-637sne43u5",
+    "hero": "Cecilion",
+    "skin_name": "Collector",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cecilion%20collector%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero916-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122137",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cecilion%20soul%20vessel.jpg",
+    "sort": "6"
   }
 }
