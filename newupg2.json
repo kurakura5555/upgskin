@@ -1278,5 +1278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/benedetta%20soul%20vessel.jpg",
     "sort": "3"
+  },
+  "Cecilion-4ucubc95l3": {
+    "key": "Cecilion-4ucubc95l3",
+    "hero": "Cecilion",
+    "skin_name": "Basic",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cecilion%20basic%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero912-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170158",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cecilion%20soul%20vessel.jpg",
+    "sort": "2"
   }
 }
