@@ -1428,5 +1428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b7/Hero138-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164603",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
     "sort": "8"
+  },
+  "Clint-lrcgpptu5t": {
+    "key": "Clint-lrcgpptu5t",
+    "hero": "Clint",
+    "skin_name": "Valentine",
+    "skin_name2": "Soul Vessel",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/clint%20valentine%20to%20soul%20vessel.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164557",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/clint%20soul%20vessel.jpg",
+    "sort": "3"
   }
 }
