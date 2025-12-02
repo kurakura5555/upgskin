@@ -1768,5 +1768,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20elite%20s.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
     "sort": "6"
+  },
+  "Hylos-wrsw5tsamg": {
+    "key": "Hylos-wrsw5tsamg",
+    "hero": "Hylos",
+    "skin_name": "Elite",
+    "skin_name2": "Mythic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hylos%20elite%20to%20mythic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20elite.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
+    "sort": "2"
   }
 }
