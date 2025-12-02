@@ -1798,5 +1798,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20season.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
     "sort": "4"
+  },
+  "Hylos-liri2rmw2u": {
+    "key": "Hylos-liri2rmw2u",
+    "hero": "Hylos",
+    "skin_name": "Special",
+    "skin_name2": "Mythic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hylos%20special%20to%20mythic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20special.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
+    "sort": "3"
   }
 }
