@@ -1558,5 +1558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164802",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
     "sort": "3"
+  },
+  "Freya-4vs6elqk44": {
+    "key": "Freya-4vs6elqk44",
+    "hero": "Freya",
+    "skin_name": "Summer",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20summer%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero224-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164803",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "sort": "4"
   }
 }
