@@ -1668,5 +1668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
     "sort": "10"
+  },
+  "Granger-zo36yan19z": {
+    "key": "Granger-zo36yan19z",
+    "hero": "Granger",
+    "skin_name": "Legend",
+    "skin_name2": "M7",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20legend%20to%20m7.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
+    "sort": "7"
   }
 }
