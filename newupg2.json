@@ -1918,5 +1918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero1192-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129072018",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/novaria%20special.jpg",
     "sort": "2"
+  },
+  "Novaria-9bu0asda8c": {
+    "key": "Novaria-9bu0asda8c",
+    "hero": "Novaria",
+    "skin_name": "Star",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/novaria%20star%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero1193-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129102653",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/novaria%20special.jpg",
+    "sort": "3"
   }
 }
