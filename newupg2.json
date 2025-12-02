@@ -1648,5 +1648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
     "sort": "3"
+  },
+  "Granger-scvunrzxef": {
+    "key": "Granger-scvunrzxef",
+    "hero": "Granger",
+    "skin_name": "Exorcist",
+    "skin_name2": "M7",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20exorcist%20to%20m7.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero107910-portrait.png/revision/latest/scale-to-width-down/150?cb=20240520065936",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
+    "sort": "10"
   }
 }
