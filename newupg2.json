@@ -1578,5 +1578,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero224-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164803",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
     "sort": "4"
+  },
+  "Granger-k7phk7jch6": {
+    "key": "Granger-k7phk7jch6",
+    "hero": "Granger",
+    "skin_name": "Basic",
+    "skin_name2": "M7",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20basic%20to%20m7.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero792-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922103731",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
+    "sort": "2"
   }
 }
