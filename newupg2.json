@@ -1548,5 +1548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164802",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
     "sort": "3"
+  },
+  "Freya-0foi78y6w3": {
+    "key": "Freya-0foi78y6w3",
+    "hero": "Freya",
+    "skin_name": "Star",
+    "skin_name2": "Luckyobx",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164802",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
+    "sort": "3"
   }
 }
