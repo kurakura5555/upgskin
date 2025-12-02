@@ -1508,5 +1508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero228-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164807",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
     "sort": "8"
+  },
+  "Freya-crth3wn47o": {
+    "key": "Freya-crth3wn47o",
+    "hero": "Freya",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero228-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164807",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
+    "sort": "8"
   }
 }
