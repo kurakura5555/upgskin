@@ -1618,5 +1618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero799-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165848",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
     "sort": "9"
+  },
+  "Granger-y49s7n5cgu": {
+    "key": "Granger-y49s7n5cgu",
+    "hero": "Granger",
+    "skin_name": "Collector",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20collector%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/93/Hero796-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160648",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
+    "sort": "6"
   }
 }
