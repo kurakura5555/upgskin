@@ -1878,5 +1878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero713-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165740",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
     "sort": "3"
+  },
+  "Kimmy-szeuf50u24": {
+    "key": "Kimmy-szeuf50u24",
+    "hero": "Kimmy",
+    "skin_name": "Starwars",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20starwars%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
+    "sort": "7"
   }
 }
