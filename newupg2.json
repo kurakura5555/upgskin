@@ -1468,5 +1468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero227-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164806",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
     "sort": "2"
+  },
+  "Freya-mnmtmdrlqu": {
+    "key": "Freya-mnmtmdrlqu",
+    "hero": "Freya",
+    "skin_name": "Christmas",
+    "skin_name2": "Lucykbox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20christmas%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero227-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164806",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
+    "sort": "2"
   }
 }
