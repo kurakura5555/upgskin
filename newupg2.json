@@ -1808,5 +1808,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20special.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
     "sort": "3"
+  },
+  "Kimmy-t3wma066bz": {
+    "key": "Kimmy-t3wma066bz",
+    "hero": "Kimmy",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero712-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320124926",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
+    "sort": "2"
   }
 }
