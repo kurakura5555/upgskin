@@ -1728,5 +1728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero794-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165843",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
     "sort": "4"
+  },
+  "Granger-rj38p9dvge": {
+    "key": "Granger-rj38p9dvge",
+    "hero": "Granger",
+    "skin_name": "Transformers",
+    "skin_name2": "M7",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20transformers%20to%20m7.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
+    "sort": "8"
   }
 }
