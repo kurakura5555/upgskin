@@ -1678,5 +1678,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
     "sort": "7"
+  },
+  "Granger-8h12wdtc67": {
+    "key": "Granger-8h12wdtc67",
+    "hero": "Granger",
+    "skin_name": "Legend",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20legend%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero797-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165846",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
+    "sort": "7"
   }
 }
