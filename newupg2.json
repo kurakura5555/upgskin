@@ -1638,5 +1638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20m7.jpg",
     "sort": "3"
+  },
+  "Granger-j9bypn4dn4": {
+    "key": "Granger-j9bypn4dn4",
+    "hero": "Granger",
+    "skin_name": "Elite",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20elite%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/85/Hero793-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165842",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
+    "sort": "3"
   }
 }
