@@ -1538,5 +1538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
     "sort": "5"
+  },
+  "Freya-exsqy0x02x": {
+    "key": "Freya-exsqy0x02x",
+    "hero": "Freya",
+    "skin_name": "Star",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20star%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero223-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164802",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "sort": "3"
   }
 }
