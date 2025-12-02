@@ -1858,5 +1858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero715-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165742",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
     "sort": "5"
+  },
+  "Kimmy-3yzni58jjh": {
+    "key": "Kimmy-3yzni58jjh",
+    "hero": "Kimmy",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20special2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero718-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132958",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
+    "sort": "8"
   }
 }
