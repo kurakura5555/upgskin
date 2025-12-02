@@ -1898,5 +1898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122155",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/gloo%20patrick.jpg",
     "sort": "2"
+  },
+  "Gloo-t71pfhswfs": {
+    "key": "Gloo-t71pfhswfs",
+    "hero": "Gloo",
+    "skin_name": "Special",
+    "skin_name2": "Patrick",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gloo%20special%20to%20patrick.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1a/Hero1043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053627",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/gloo%20patrick.jpg",
+    "sort": "3"
   }
 }
