@@ -1778,5 +1778,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20elite.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
     "sort": "2"
+  },
+  "Hylos-jlk8hqi9m9": {
+    "key": "Hylos-jlk8hqi9m9",
+    "hero": "Hylos",
+    "skin_name": "Epic",
+    "skin_name2": "Mythic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hylos%20epic%20to%20mythic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20epic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
+    "sort": "5"
   }
 }
