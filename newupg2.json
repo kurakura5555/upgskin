@@ -1458,5 +1458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero222-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164801",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
     "sort": "2"
+  },
+  "Freya-r6k413d694": {
+    "key": "Freya-r6k413d694",
+    "hero": "Freya",
+    "skin_name": "Christmas",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20christmas%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero227-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164806",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "sort": "2"
   }
 }
