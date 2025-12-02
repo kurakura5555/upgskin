@@ -1488,5 +1488,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero226-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164805",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
     "sort": "6"
+  },
+  "Freya-x2nmuohg6y": {
+    "key": "Freya-x2nmuohg6y",
+    "hero": "Freya",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero226-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164805",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero225-portrait.png/revision/latest/scale-to-width-down/150?cb=20250405154535",
+    "sort": "6"
   }
 }
