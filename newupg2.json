@@ -1758,5 +1758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest/scale-to-width-down/150?cb=20240201102949",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
     "sort": "11"
+  },
+  "Hylos-mp42nzcd9o": {
+    "key": "Hylos-mp42nzcd9o",
+    "hero": "Hylos",
+    "skin_name": "Elite",
+    "skin_name2": "Mythic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hylos%20elite%20s%20to%20mythic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20elite%20s.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hylos%20mythic.jpg",
+    "sort": "6"
   }
 }
