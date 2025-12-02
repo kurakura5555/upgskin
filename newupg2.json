@@ -1838,5 +1838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero719-portrait.png/revision/latest/scale-to-width-down/150?cb=20241017120358",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
     "sort": "9"
+  },
+  "Kimmy-nz4vu9rtye": {
+    "key": "Kimmy-nz4vu9rtye",
+    "hero": "Kimmy",
+    "skin_name": "Luckybox",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20luckybox%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/31/Hero714-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165741",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
+    "sort": "4"
   }
 }
