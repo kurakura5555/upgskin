@@ -1818,5 +1818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero712-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320124926",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
     "sort": "2"
+  },
+  "Kimmy-5c1a78iqeb": {
+    "key": "Kimmy-5c1a78iqeb",
+    "hero": "Kimmy",
+    "skin_name": "Dragon Tamer",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kimmy%20dragon%20tamer%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero716-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165743",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
+    "sort": "6"
   }
 }
