@@ -1748,5 +1748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c6/Hero798-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165847",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
     "sort": "8"
+  },
+  "Granger-uxonko6sy5": {
+    "key": "Granger-uxonko6sy5",
+    "hero": "Granger",
+    "skin_name": "Valentine",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/granger%20valentine%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero107911-portrait.png/revision/latest/scale-to-width-down/150?cb=20240201102949",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/granger%20prime.jpg",
+    "sort": "11"
   }
 }
