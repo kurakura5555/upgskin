@@ -1888,5 +1888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero717-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180011",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/kimmy%20collector.jpg",
     "sort": "7"
+  },
+  "Gloo-nasug100i1": {
+    "key": "Gloo-nasug100i1",
+    "hero": "Gloo",
+    "skin_name": "Basic",
+    "skin_name2": "Patrick",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gloo%20basic%20to%20patrick.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250403122155",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/gloo%20patrick.jpg",
+    "sort": "2"
   }
 }
