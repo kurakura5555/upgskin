@@ -1938,5 +1938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170032",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
     "sort": "2"
+  },
+  "Fredrin-cjmwoa429u": {
+    "key": "Fredrin-cjmwoa429u",
+    "hero": "Fredrin",
+    "skin_name": "Neobeast",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fredrinn%20neobeast%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero1174-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043932",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8igw_8867zd4V77gOBpFcdCI_m2rSUdaBbTNEx0Z3tmnhRbvRebH-C1s&s=10",
+    "sort": "4"
   }
 }
