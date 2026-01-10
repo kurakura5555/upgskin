@@ -799,16 +799,6 @@
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802034527",
     "sort": "5"
   },
-  "Alucard-qmegsovdwe": {
-    "key": "Alucard-qmegsovdwe",
-    "hero": "Alucard",
-    "skin_name": "Starwars",
-    "skin_name2": "Legend",
-    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alucard%20starwars%20to%20legend.zip",
-    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero100710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802034527",
-    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero077-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164442",
-    "sort": "10"
-  },
   "Alucard-kltdduarre": {
     "key": "Alucard-kltdduarre",
     "hero": "Alucard",
