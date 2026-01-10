@@ -18238,5 +18238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero1053-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170422",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
     "sort": "3"
+  },
+  "Freya-ngdo9maquv": {
+    "key": "Freya-ngdo9maquv",
+    "hero": "Freya",
+    "skin_name": "Saber",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20saber%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero229-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164809",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/eb/Hero102210-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114101726",
+    "sort": "9"
   }
 }
