@@ -1998,5 +1998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
     "sort": "5"
+  },
+  "Fanny-bag46e49vp": {
+    "key": "Fanny-bag46e49vp",
+    "hero": "Fanny",
+    "skin_name": "Summer",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20summer%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7d/Hero176-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164706",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
+    "sort": "6"
   }
 }
