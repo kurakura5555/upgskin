@@ -1988,5 +1988,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero173-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164703",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
     "sort": "3"
+  },
+  "Fanny-c76qgpn5aq": {
+    "key": "Fanny-c76qgpn5aq",
+    "hero": "Fanny",
+    "skin_name": "Star",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20star%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero175-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164705",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
+    "sort": "5"
   }
 }
