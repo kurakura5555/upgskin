@@ -2218,5 +2218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165250",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
     "sort": "7"
+  },
+  "Lancelot-tcmwrq8mdw": {
+    "key": "Lancelot-tcmwrq8mdw",
+    "hero": "Lancelot",
+    "skin_name": "Luckybox",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20luckybox%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero474-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165247",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
+    "sort": "7"
   }
 }
