@@ -18248,5 +18248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
     "sort": "8"
+  },
+  "Fanny-dt97r276jo": {
+    "key": "Fanny-dt97r276jo",
+    "hero": "Fanny",
+    "skin_name": "Elite",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20elite%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
+    "sort": "2"
   }
 }
