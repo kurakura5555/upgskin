@@ -2078,5 +2078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero222-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164801",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/freya%20star2.jpg",
     "sort": "2"
+  },
+  "Hanabi-8wv8uyyffg": {
+    "key": "Hanabi-8wv8uyyffg",
+    "hero": "Hanabi",
+    "skin_name": "Basic",
+    "skin_name2": "Golden Month",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hanabi%20basic%20to%20golden%20month.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero602-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103133",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hanabi%20golden%20month.jpg",
+    "sort": "2"
   }
 }
