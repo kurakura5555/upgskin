@@ -2018,5 +2018,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
     "sort": "8"
+  },
+  "Floryn-yw09fm709m": {
+    "key": "Floryn-yw09fm709m",
+    "hero": "Floryn",
+    "skin_name": "Basic",
+    "skin_name2": "Eternal Season",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/floryn%20basic%20to%20eternal%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero1122-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170547",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/floryn%20eternal%20season.jpg",
+    "sort": "2"
   }
 }
