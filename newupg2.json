@@ -2128,5 +2128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165203",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/harley%20star2.jpg",
     "sort": "3"
+  },
+  "Harley-ak3grn4zdq": {
+    "key": "Harley-ak3grn4zdq",
+    "hero": "Harley",
+    "skin_name": "Star",
+    "skin_name2": "Star Painted",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harley%20star%20to%20star2%20Painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165203",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/harley%20star2%20painted.jpg",
+    "sort": "3"
   }
 }
