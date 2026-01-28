@@ -2148,5 +2148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ef/Hero423-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165203",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/harley%20star2%20painted2.jpg",
     "sort": "3"
+  },
+  "Kagura-lwfhu63h1y": {
+    "key": "Kagura-lwfhu63h1y",
+    "hero": "Kagura",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kagura%20special2%20to%20luckybox.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_m31R2VIsyxZFmnPc2eErDvVRosW6oxfpH8A4AhsV7CKqSIHDVkgN9D-P&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero255-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164843",
+    "sort": "11"
   }
 }
