@@ -2188,5 +2188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero473-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165246",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
     "sort": "3"
+  },
+  "Lancelot-qidqgbg7rl": {
+    "key": "Lancelot-qidqgbg7rl",
+    "hero": "Lancelot",
+    "skin_name": "Dragon Tamer",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20dragon%20tamer%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/25/Hero104710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115345",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
+    "sort": "10"
   }
 }
