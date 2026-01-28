@@ -2238,5 +2238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b1/Hero475-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165248",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
     "sort": "5"
+  },
+  "Lancelot-cauie85ukc": {
+    "key": "Lancelot-cauie85ukc",
+    "hero": "Lancelot",
+    "skin_name": "Zodiac",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20zodiac%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero476-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212041010",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
+    "sort": "6"
   }
 }
