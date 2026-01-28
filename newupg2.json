@@ -2208,5 +2208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero104711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045336",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
     "sort": "11"
+  },
+  "Lancelot-x9yb44ukej": {
+    "key": "Lancelot-x9yb44ukej",
+    "hero": "Lancelot",
+    "skin_name": "Epic",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lancelot%20epic%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero477-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165250",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lancelot%20valentine.jpg",
+    "sort": "7"
   }
 }
