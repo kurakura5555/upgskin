@@ -18228,5 +18228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
     "sort": "12"
+  },
+  "Fanny-p72ovi1g5t": {
+    "key": "Fanny-p72ovi1g5t",
+    "hero": "Fanny",
+    "skin_name": "Basic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20basic%20s%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero179-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164709",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
+    "sort": "9"
   }
 }
