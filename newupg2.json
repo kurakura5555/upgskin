@@ -2048,5 +2048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero1123-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170548",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/floryn%20eternal%20season.jpg",
     "sort": "3"
+  },
+  "Floryn-5gfzk2efyn": {
+    "key": "Floryn-5gfzk2efyn",
+    "hero": "Floryn",
+    "skin_name": "Summer",
+    "skin_name2": "Eternal Season",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/floryn%20summer%20to%20eternal%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero1125-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619173600",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/floryn%20eternal%20season.jpg",
+    "sort": "4"
   }
 }
