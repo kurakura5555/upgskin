@@ -2068,5 +2068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164523",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/franco%20special2.jpg",
     "sort": "2"
+  },
+  "Freya-fc9gidza98": {
+    "key": "Freya-fc9gidza98",
+    "hero": "Freya",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/freya%20basic%20to%20star2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/06/Hero222-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164801",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/freya%20star2.jpg",
+    "sort": "2"
   }
 }
