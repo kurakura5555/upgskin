@@ -1958,5 +1958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest/scale-to-width-down/150?cb=20240411075808",
     "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8igw_8867zd4V77gOBpFcdCI_m2rSUdaBbTNEx0Z3tmnhRbvRebH-C1s&s=10",
     "sort": "5"
+  },
+  "Fanny-ht0kxjou3t": {
+    "key": "Fanny-ht0kxjou3t",
+    "hero": "Fanny",
+    "skin_name": "Lightborn",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20lightborn%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
+    "sort": "7"
   }
 }
