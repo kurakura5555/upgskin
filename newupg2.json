@@ -2358,5 +2358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest/scale-to-width-down/150?cb=20240401090131",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lylia%20covenant.jpg",
     "sort": "7"
+  },
+  "Lunox-ufm6dt5go2": {
+    "key": "Lunox-ufm6dt5go2",
+    "hero": "Lunox",
+    "skin_name": "Mpl",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/lunox%20mpl%20to%20luckybox.zip",
+    "img": "https://pbs.twimg.com/media/GyTjhSja4AIl3w1?format=jpg&name=small",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lunox%20luckybox.jpg",
+    "sort": "11"
   }
 }
