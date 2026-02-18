@@ -2338,5 +2338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero865-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170051",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lylia%20covenant.jpg",
     "sort": "5"
+  },
+  "Lilya-fn7tak9rel": {
+    "key": "Lilya-fn7tak9rel",
+    "hero": "Lilya",
+    "skin_name": "Special",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lylia%20special%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero864-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170050",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lylia%20covenant.jpg",
+    "sort": "4"
   }
 }
