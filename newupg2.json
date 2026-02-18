@@ -2258,5 +2258,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero677-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103141",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/leomord%20lunar%20fest.jpg",
     "sort": "7"
+  },
+  "Leomord-v2qq0699wm": {
+    "key": "Leomord-v2qq0699wm",
+    "hero": "Leomord",
+    "skin_name": "Basic",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20basic%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero672-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628173711",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/leomord%20lunar%20fest.jpg",
+    "sort": "2"
   }
 }
