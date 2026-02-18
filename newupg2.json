@@ -2348,5 +2348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero864-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170050",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lylia%20covenant.jpg",
     "sort": "4"
+  },
+  "Lilya-lw33slx39l": {
+    "key": "Lilya-lw33slx39l",
+    "hero": "Lilya",
+    "skin_name": "Star",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lylia%20star%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/36/Hero867-portrait.png/revision/latest/scale-to-width-down/150?cb=20240401090131",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lylia%20covenant.jpg",
+    "sort": "7"
   }
 }
