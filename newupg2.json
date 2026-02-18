@@ -2318,5 +2318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b2/Hero862-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170048",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lylia%20covenant.jpg",
     "sort": "2"
+  },
+  "Lilya-yu16dyw6nw": {
+    "key": "Lilya-yu16dyw6nw",
+    "hero": "Lilya",
+    "skin_name": "Elite",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lylia%20elite%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero863-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170049",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lylia%20covenant.jpg",
+    "sort": "3"
   }
 }
