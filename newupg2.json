@@ -2288,5 +2288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero679-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123904",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/leomord%20lunar%20fest.jpg",
     "sort": "9"
+  },
+  "Leomord-jgroovj5yl": {
+    "key": "Leomord-jgroovj5yl",
+    "hero": "Leomord",
+    "skin_name": "Luckybox",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/leomord%20luckybox%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/leomord%20lunar%20fest.jpg",
+    "sort": "5"
   }
 }
