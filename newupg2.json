@@ -2668,5 +2668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164634",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
     "sort": "5"
+  },
+  "Eudora-kfac1p7pff": {
+    "key": "Eudora-kfac1p7pff",
+    "hero": "Eudora",
+    "skin_name": "Luckybox",
+    "skin_name2": "Atomic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/eudora%20luckybox%20to%20atomic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero154-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530071934",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
+    "sort": "4"
   }
 }
