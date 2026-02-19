@@ -2448,5 +2448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170443",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
     "sort": "2"
+  },
+  "Natan-5ub8fpmhm9": {
+    "key": "Natan-5ub8fpmhm9",
+    "hero": "Natan",
+    "skin_name": "Collector",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20collector%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035443",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
+    "sort": "5"
   }
 }
