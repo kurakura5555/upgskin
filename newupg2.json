@@ -2388,5 +2388,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
     "sort": "11"
+  },
+  "Miya-hmlq9ekzvy": {
+    "key": "Miya-hmlq9ekzvy",
+    "hero": "Miya",
+    "skin_name": "Luckybox",
+    "skin_name2": "Eternal Season",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20luckybox%20to%20eternal%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
+    "sort": "3"
   }
 }
