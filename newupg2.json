@@ -2928,5 +2928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1163-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035450",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20itachi.jpg",
     "sort": "3"
+  },
+  "Julian-h1e7wl3svn": {
+    "key": "Julian-h1e7wl3svn",
+    "hero": "Julian",
+    "skin_name": "Mystic",
+    "skin_name2": "Itachi",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/julian%20mystic%20to%20itachi.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1166-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052541",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20itachi.jpg",
+    "sort": "4"
   }
 }
