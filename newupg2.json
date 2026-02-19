@@ -2638,5 +2638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134505",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20epic.jpg",
     "sort": "3"
+  },
+  "Parsha-q9zxc448kf": {
+    "key": "Parsha-q9zxc448kf",
+    "hero": "Parsha",
+    "skin_name": "Season",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20season%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest/scale-to-width-down/150?cb=20220604034152",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20epic.jpg",
+    "sort": "4"
   }
 }
