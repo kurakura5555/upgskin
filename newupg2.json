@@ -2488,5 +2488,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180007",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
     "sort": "4"
+  },
+  "Nolan-drd8t9dr0e": {
+    "key": "Nolan-drd8t9dr0e",
+    "hero": "Nolan",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nolan%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1222-portrait.png/revision/latest/scale-to-width-down/150?cb=20231227085831",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/nolan%20epic.jpg",
+    "sort": "2"
   }
 }
