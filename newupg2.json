@@ -2768,5 +2768,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/16/Hero569-portrait.png/revision/latest/scale-to-width-down/150?cb=20250802160358",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20minato.jpg",
     "sort": "2"
+  },
+  "Gusion-olwk3ipsvc": {
+    "key": "Gusion-olwk3ipsvc",
+    "hero": "Gusion",
+    "skin_name": "Elite",
+    "skin_name2": "Minato",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20elite%20to%20minato.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20minato.jpg",
+    "sort": "3"
   }
 }
