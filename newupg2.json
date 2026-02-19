@@ -2548,5 +2548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero464-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165238",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
     "sort": "4"
+  },
+  "Odete-uefietn0me": {
+    "key": "Odete-uefietn0me",
+    "hero": "Odete",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20lunar%20fest%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165241",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
+    "sort": "7"
   }
 }
