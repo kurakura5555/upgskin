@@ -2878,5 +2878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero353-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165052",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
     "sort": "3"
+  },
+  "Hilda-7vjeancl8p": {
+    "key": "Hilda-7vjeancl8p",
+    "hero": "Hilda",
+    "skin_name": "Special",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hilda%20special%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165055",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
+    "sort": "6"
   }
 }
