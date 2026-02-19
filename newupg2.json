@@ -2718,5 +2718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164631",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
     "sort": "2"
+  },
+  "Eudora-s7x653a6mw": {
+    "key": "Eudora-s7x653a6mw",
+    "hero": "Eudora",
+    "skin_name": "Christmas",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/eudora%20christmas%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164632",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
+    "sort": "3"
   }
 }
