@@ -2938,5 +2938,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero1166-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052541",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20itachi.jpg",
     "sort": "4"
+  },
+  "Zetian-dlqxl4mluh": {
+    "key": "Zetian-dlqxl4mluh",
+    "hero": "Zetian",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zetian%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero1292-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132253",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zetian%20star.jpg",
+    "sort": "2"
   }
 }
