@@ -2888,5 +2888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/08/Hero356-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165055",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
     "sort": "6"
+  },
+  "Hilda-eq48vbj7z1": {
+    "key": "Hilda-eq48vbj7z1",
+    "hero": "Hilda",
+    "skin_name": "Zodiac",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hilda%20zodiac%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero355-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317100645",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
+    "sort": "5"
   }
 }
