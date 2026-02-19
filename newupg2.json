@@ -2508,5 +2508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c0/Hero1223-portrait.png/revision/latest/scale-to-width-down/150?cb=20240502082224",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/nolan%20epic.jpg",
     "sort": "3"
+  },
+  "Odete-jbvxjq7107": {
+    "key": "Odete-jbvxjq7107",
+    "hero": "Odete",
+    "skin_name": "Basic",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20basic%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045025",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
+    "sort": "2"
   }
 }
