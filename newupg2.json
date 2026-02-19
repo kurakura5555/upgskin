@@ -2868,5 +2868,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero354-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165053",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
     "sort": "4"
+  },
+  "Hilda-u80mybeyjj": {
+    "key": "Hilda-u80mybeyjj",
+    "hero": "Hilda",
+    "skin_name": "Season",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hilda%20season%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero353-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165052",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
+    "sort": "3"
   }
 }
