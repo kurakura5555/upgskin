@@ -2458,5 +2458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1075-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035443",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
     "sort": "5"
+  },
+  "Natan-dj7j49c7dn": {
+    "key": "Natan-dj7j49c7dn",
+    "hero": "Natan",
+    "skin_name": "Elite",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20elite%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170444",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
+    "sort": "3"
   }
 }
