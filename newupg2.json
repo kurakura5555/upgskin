@@ -2658,5 +2658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20epic.jpg",
     "sort": "5"
+  },
+  "Eudora-1t0ey1ox9x": {
+    "key": "Eudora-1t0ey1ox9x",
+    "hero": "Eudora",
+    "skin_name": "Limited",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/eudora%20limited%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164634",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
+    "sort": "5"
   }
 }
