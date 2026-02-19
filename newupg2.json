@@ -2468,5 +2468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero1073-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170444",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
     "sort": "3"
+  },
+  "Natan-w69p8mq0r3": {
+    "key": "Natan-w69p8mq0r3",
+    "hero": "Natan",
+    "skin_name": "Special",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20special%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1076-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153250",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
+    "sort": "6"
   }
 }
