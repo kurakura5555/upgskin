@@ -2808,5 +2808,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero568-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165451",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20minato.jpg",
     "sort": "8"
+  },
+  "Gusion-1taj2mvkxn": {
+    "key": "Gusion-1taj2mvkxn",
+    "hero": "Gusion",
+    "skin_name": "Star",
+    "skin_name2": "Minato",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20star%20to%20minato.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20minato.jpg",
+    "sort": "4"
   }
 }
