@@ -2608,5 +2608,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165346",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=202205251",
     "sort": "7"
+  },
+  "Parsha-rgffzotnz3": {
+    "key": "Parsha-rgffzotnz3",
+    "hero": "Parsha",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20basic%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/vexana%20epic.jpg",
+    "sort": "2"
   }
 }
