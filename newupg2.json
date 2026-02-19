@@ -2568,5 +2568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png/revision/latest/scale-to-width-down/150?cb=20240815144026",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
     "sort": "9"
+  },
+  "Odete-1tc687488f": {
+    "key": "Odete-1tc687488f",
+    "hero": "Odete",
+    "skin_name": "Zodiac",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20zodiac%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero466-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043847",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
+    "sort": "6"
   }
 }
