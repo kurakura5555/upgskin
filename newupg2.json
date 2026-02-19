@@ -2858,5 +2858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero352-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165051",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
     "sort": "2"
+  },
+  "Hilda-obd4z24avr": {
+    "key": "Hilda-obd4z24avr",
+    "hero": "Hilda",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hilda%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero354-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165053",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
+    "sort": "4"
   }
 }
