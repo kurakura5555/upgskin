@@ -2478,5 +2478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/db/Hero1076-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153250",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
     "sort": "6"
+  },
+  "Natan-mfim6wlajr": {
+    "key": "Natan-mfim6wlajr",
+    "hero": "Natan",
+    "skin_name": "Star",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20star%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero1074-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180007",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
+    "sort": "4"
   }
 }
