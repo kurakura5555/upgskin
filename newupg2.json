@@ -2598,5 +2598,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165348",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=202205251",
     "sort": "9"
+  },
+  "Parsha-oos3nvqa0z": {
+    "key": "Parsha-oos3nvqa0z",
+    "hero": "Parsha",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero527-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165346",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=202205251",
+    "sort": "7"
   }
 }
