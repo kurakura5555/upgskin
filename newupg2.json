@@ -2588,5 +2588,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero105210-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045337",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165345",
     "sort": "10"
+  },
+  "Parsha-sf50nsn7tz": {
+    "key": "Parsha-sf50nsn7tz",
+    "hero": "Parsha",
+    "skin_name": "Msc",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20msc%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero529-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165348",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=202205251",
+    "sort": "9"
   }
 }
