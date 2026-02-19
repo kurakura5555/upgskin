@@ -2438,5 +2438,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero017-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164235",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
     "sort": "7"
+  },
+  "Natan-jg9trk0kpi": {
+    "key": "Natan-jg9trk0kpi",
+    "hero": "Natan",
+    "skin_name": "Basic",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/natan%20basic%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero1072-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170443",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/natan%20covenant.jpg",
+    "sort": "2"
   }
 }
