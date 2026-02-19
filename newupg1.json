@@ -18258,5 +18258,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero172-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164702",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20legend.jpg",
     "sort": "2"
+  },
+  "Miya-kpex8qekzk": {
+    "key": "Miya-kpex8qekzk",
+    "hero": "Miya",
+    "skin_name": "Anniversary",
+    "skin_name2": "Eternal Season",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20anniversary%20to%20eternal%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero100110-portrait.png/revision/latest/scale-to-width-down/150?cb=20220224220136",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
+    "sort": "10"
   }
 }
