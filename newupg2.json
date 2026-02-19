@@ -2848,5 +2848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero566-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165448",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gusion%20minato.jpg",
     "sort": "6"
+  },
+  "Hilda-tk2t9ni4xa": {
+    "key": "Hilda-tk2t9ni4xa",
+    "hero": "Hilda",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/hilda%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero352-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165051",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/hilda%20star.jpg",
+    "sort": "2"
   }
 }
