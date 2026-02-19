@@ -2948,5 +2948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero1292-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132253",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zetian%20star.jpg",
     "sort": "2"
+  },
+  "Parsha-bl755gmh74": {
+    "key": "Parsha-bl755gmh74",
+    "hero": "Parsha",
+    "skin_name": "Neobeast",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20neobeast%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero105211-portrait.png/revision/latest/scale-to-width-down/150?cb=20250320125030",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/75/Hero526-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165345",
+    "sort": "11"
   }
 }
