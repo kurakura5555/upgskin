@@ -2558,5 +2558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero467-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165241",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
     "sort": "7"
+  },
+  "Odete-9nxb8miki4": {
+    "key": "Odete-9nxb8miki4",
+    "hero": "Odete",
+    "skin_name": "Star",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20star%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero469-portrait.png/revision/latest/scale-to-width-down/150?cb=20240815144026",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
+    "sort": "9"
   }
 }
