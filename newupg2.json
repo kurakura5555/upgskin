@@ -2728,5 +2728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero153-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164632",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
     "sort": "3"
+  },
+  "Eudora-av5iu7xkca": {
+    "key": "Eudora-av5iu7xkca",
+    "hero": "Eudora",
+    "skin_name": "Season",
+    "skin_name2": "Covenant",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/eudora%20season%20to%20covenant.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b0/Hero156-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164635",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/eudora%20covenant.jpg",
+    "sort": "6"
   }
 }
