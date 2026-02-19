@@ -2518,5 +2518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d4/Hero462-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045025",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
     "sort": "2"
+  },
+  "Odete-ixofwth4xf": {
+    "key": "Odete-ixofwth4xf",
+    "hero": "Odete",
+    "skin_name": "Christmas",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/odette%20christmas%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero463-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165237",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/odette%20valentine.jpg",
+    "sort": "3"
   }
 }
