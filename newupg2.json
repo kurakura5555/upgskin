@@ -2408,5 +2408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
     "sort": "2"
+  },
+  "Miya-p2qurslyu7": {
+    "key": "Miya-p2qurslyu7",
+    "hero": "Miya",
+    "skin_name": "Special",
+    "skin_name2": "Eternal Season",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20special%20to%20eternal%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero018-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164240",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
+    "sort": "2"
   }
 }
