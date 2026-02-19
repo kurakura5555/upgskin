@@ -2398,5 +2398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/67/Hero013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164212",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
     "sort": "3"
+  },
+  "Miya-778lzls5rp": {
+    "key": "Miya-778lzls5rp",
+    "hero": "Miya",
+    "skin_name": "Elite",
+    "skin_name2": "Eternal Season",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20elite%20to%20eternal%20season.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/miya%20eternal%20season.jpg",
+    "sort": "2"
   }
 }
