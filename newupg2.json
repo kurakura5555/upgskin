@@ -3108,5 +3108,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero155-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164634",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero158-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133651",
     "sort": "5"
+  },
+  "Aamon-5vzjiz4e6p": {
+    "key": "Aamon-5vzjiz4e6p",
+    "hero": "Aamon",
+    "skin_name": "twz",
+    "skin_name2": "tws",
+    "download": "tws",
+    "img": "yws",
+    "img2": "ywz",
+    "sort": "21"
   }
 }
