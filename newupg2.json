@@ -3118,5 +3118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121134934",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero616-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165544",
     "sort": "2"
+  },
+  "Cyclops-ny2deqok2y": {
+    "key": "Cyclops-ny2deqok2y",
+    "hero": "Cyclops",
+    "skin_name": "Basic",
+    "skin_name2": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20basic%20to%20spongebob.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165023",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "sort": "2"
   }
 }
