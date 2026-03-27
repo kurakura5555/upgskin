@@ -3138,5 +3138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102253",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
     "sort": "9"
+  },
+  "Cyclops-1qe2te9yrh": {
+    "key": "Cyclops-1qe2te9yrh",
+    "hero": "Cyclops",
+    "skin_name": "Elite",
+    "skin_name2": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20elite%20to%20spongebob.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165024",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "sort": "3"
   }
 }
