@@ -3228,5 +3228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero447-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180009",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
     "sort": "7"
+  },
+  "Grock-k6te2btuio": {
+    "key": "Grock-k6te2btuio",
+    "hero": "Grock",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero448-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619181005",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
+    "sort": "8"
   }
 }
