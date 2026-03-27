@@ -3218,5 +3218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
     "sort": "6"
+  },
+  "Grock-yutz457gho": {
+    "key": "Grock-yutz457gho",
+    "hero": "Grock",
+    "skin_name": "Season",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20season%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero447-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180009",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
+    "sort": "7"
   }
 }
