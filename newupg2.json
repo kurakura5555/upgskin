@@ -3128,5 +3128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero332-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165023",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
     "sort": "2"
+  },
+  "Cyclops-476a6ngzzt": {
+    "key": "Cyclops-476a6ngzzt",
+    "hero": "Cyclops",
+    "skin_name": "Collector",
+    "skin_name2": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20collector%20to%20spongebob.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/27/Hero339-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102253",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "sort": "9"
   }
 }
