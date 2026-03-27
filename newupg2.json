@@ -3148,5 +3148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6d/Hero333-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165024",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
     "sort": "3"
+  },
+  "Cyclops-kucla7yiqt": {
+    "key": "Cyclops-kucla7yiqt",
+    "hero": "Cyclops",
+    "skin_name": "Halloween",
+    "skin_name2": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20halloween%20to%20spongebob.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165032",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "sort": "8"
   }
 }
