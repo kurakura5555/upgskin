@@ -3238,5 +3238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero448-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619181005",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
     "sort": "8"
+  },
+  "Grock-dcgnncohh8": {
+    "key": "Grock-dcgnncohh8",
+    "hero": "Grock",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero445-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
+    "sort": "5"
   }
 }
