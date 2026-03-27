@@ -3248,5 +3248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/12/Hero445-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
     "sort": "5"
+  },
+  "Grock-rsudyx1cyz": {
+    "key": "Grock-rsudyx1cyz",
+    "hero": "Grock",
+    "skin_name": "Venom",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20venom%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero444-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165222",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
+    "sort": "4"
   }
 }
