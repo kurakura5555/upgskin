@@ -3198,5 +3198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero337-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165031",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
     "sort": "7"
+  },
+  "Grock-q3t0qcl17m": {
+    "key": "Grock-q3t0qcl17m",
+    "hero": "Grock",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero443-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165221",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/grock%20collector.png",
+    "sort": "3"
   }
 }
