@@ -3168,5 +3168,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165025",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
     "sort": "4"
+  },
+  "Cyclops-jcsqxs80o4": {
+    "key": "Cyclops-jcsqxs80o4",
+    "hero": "Cyclops",
+    "skin_name": "Season",
+    "skin_name2": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20season%20to%20spongebob.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero336-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165030",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "sort": "6"
   }
 }
