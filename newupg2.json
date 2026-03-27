@@ -3158,5 +3158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8d/Hero338-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165032",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
     "sort": "8"
+  },
+  "Cyclops-3aae0p73sy": {
+    "key": "Cyclops-3aae0p73sy",
+    "hero": "Cyclops",
+    "skin_name": "Saber",
+    "skin_name2": "Spongebob",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/cyclops%20saber%20to%20spongebob.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero334-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165025",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/cyclops%20spongebob.jpg",
+    "sort": "4"
   }
 }
