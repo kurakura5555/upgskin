@@ -3288,5 +3288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170017",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
     "sort": "4"
+  },
+  "Ling-rkx74tgs5l": {
+    "key": "Ling-rkx74tgs5l",
+    "hero": "Ling",
+    "skin_name": "Mworld",
+    "skin_name2": "All Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20mworld%20to%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
+    "sort": "7"
   }
 }
