@@ -3298,5 +3298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero847-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170021",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
     "sort": "7"
+  },
+  "Ling-kwn2mv07bw": {
+    "key": "Ling-kwn2mv07bw",
+    "hero": "Ling",
+    "skin_name": "Special",
+    "skin_name2": "All Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20special%20to%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170019",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
+    "sort": "5"
   }
 }
