@@ -3278,5 +3278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
     "sort": "2"
+  },
+  "Ling-tpzs4pmdst": {
+    "key": "Ling-tpzs4pmdst",
+    "hero": "Ling",
+    "skin_name": "Dragon Tamer",
+    "skin_name2": "All Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20dragon%20tamer%20to%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero844-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170017",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
+    "sort": "4"
   }
 }
