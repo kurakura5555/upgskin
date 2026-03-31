@@ -3268,5 +3268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/valir%20epic.png",
     "sort": "2"
+  },
+  "Ling-tcypp4nat2": {
+    "key": "Ling-tcypp4nat2",
+    "hero": "Ling",
+    "skin_name": "Basic",
+    "skin_name2": "All Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20basic%20to%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/be/Hero842-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154306",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
+    "sort": "2"
   }
 }
