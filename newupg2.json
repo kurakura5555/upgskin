@@ -3328,5 +3328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/martis%20epic.png",
     "sort": "2"
+  },
+  "Parsha-eei04dd1lc": {
+    "key": "Parsha-eei04dd1lc",
+    "hero": "Parsha",
+    "skin_name": "Basic",
+    "skin_name2": "Al",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/pharsa%20basic%20to%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/pharsa%20all%20star.png",
+    "sort": "2"
   }
 }
