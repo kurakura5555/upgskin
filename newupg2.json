@@ -3338,5 +3338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero522-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165341",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/pharsa%20all%20star.png",
     "sort": "2"
+  },
+  "Yu-Zhong-jqdykuy8op": {
+    "key": "Yu-Zhong-jqdykuy8op",
+    "hero": "Yu Zhong",
+    "skin_name": "Basic",
+    "skin_name2": "All Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20basic%20to%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yu%20zhong%20all%20star.png",
+    "sort": "2"
   }
 }
