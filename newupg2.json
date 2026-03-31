@@ -3318,5 +3318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
     "sort": "3"
+  },
+  "Martis-5tucfydsey": {
+    "key": "Martis-5tucfydsey",
+    "hero": "Martis",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/martis%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero582-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165506",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/martis%20epic.png",
+    "sort": "2"
   }
 }
