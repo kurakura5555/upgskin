@@ -3308,5 +3308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero845-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170019",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
     "sort": "5"
+  },
+  "Ling-puipk6me6m": {
+    "key": "Ling-puipk6me6m",
+    "hero": "Ling",
+    "skin_name": "Star",
+    "skin_name2": "All Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/ling%20star%20to%20all%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero843-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170016",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/ling%20all%20star.png",
+    "sort": "3"
   }
 }
