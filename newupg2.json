@@ -3368,5 +3368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero1302-portrait.png/revision/latest/scale-to-width-down/150?cb=20250629033055",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/obsidia%20star.png",
     "sort": "2"
+  },
+  "Alpha-2hvsfjpzga": {
+    "key": "Alpha-2hvsfjpzga",
+    "hero": "Alpha",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/23/Hero283-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164920",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alpha%20epic.png",
+    "sort": "2"
   }
 }
