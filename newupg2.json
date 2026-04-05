@@ -3348,5 +3348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yu%20zhong%20all%20star.png",
     "sort": "2"
+  },
+  "Lesley-19h9b5fg86": {
+    "key": "Lesley-19h9b5fg86",
+    "hero": "Lesley",
+    "skin_name": "Mystic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20mystic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lesley%20legend.png",
+    "sort": "12"
   }
 }
