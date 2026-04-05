@@ -3388,5 +3388,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250703151404",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20collector.png",
     "sort": "2"
+  },
+  "Alice-86aw1fw7se": {
+    "key": "Alice-86aw1fw7se",
+    "hero": "Alice",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20collector.png",
+    "sort": "7"
   }
 }
