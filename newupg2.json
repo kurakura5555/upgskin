@@ -3438,5 +3438,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164352",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20collector.png",
     "sort": "5"
+  },
+  "Obsidia-8iwtg6k5yg": {
+    "key": "Obsidia-8iwtg6k5yg",
+    "hero": "Obsidia",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/obsidia%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero1302-portrait.png/revision/latest/scale-to-width-down/150?cb=20250629033055",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/obsidia%20star.png",
+    "sort": "2"
   }
 }
