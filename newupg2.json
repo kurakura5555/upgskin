@@ -3398,5 +3398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20collector.png",
     "sort": "7"
+  },
+  "Alice-t1m4nsmon8": {
+    "key": "Alice-t1m4nsmon8",
+    "hero": "Alice",
+    "skin_name": "Luckybox",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20luckybox%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero043-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20collector.png",
+    "sort": "3"
   }
 }
