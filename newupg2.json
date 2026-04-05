@@ -3358,5 +3358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/lesley%20legend.png",
     "sort": "12"
+  },
+  "Odete-vnx6tmc22j": {
+    "key": "Odete-vnx6tmc22j",
+    "hero": "Odete",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/obsidia%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/72/Hero1302-portrait.png/revision/latest/scale-to-width-down/150?cb=20250629033055",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/obsidia%20star.png",
+    "sort": "2"
   }
 }
