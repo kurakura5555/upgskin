@@ -3468,5 +3468,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
     "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/benedetta%20x%20maki%20zenin.png",
     "sort": "3"
+  },
+  "Benedetta-1r6q1jnsme": {
+    "key": "Benedetta-1r6q1jnsme",
+    "hero": "Benedetta",
+    "skin_name": "Mpl",
+    "skin_name2": "Maki Zenin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/benedetta%20mpl%20x%20maki%20zenin.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/benedetta%20x%20maki%20zenin.png",
+    "sort": "7"
   }
 }
