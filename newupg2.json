@@ -3458,5 +3458,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0f/Hero972-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170253",
     "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/benedetta%20x%20maki%20zenin.png",
     "sort": "2"
+  },
+  "Benedetta-1cfodroqlf": {
+    "key": "Benedetta-1cfodroqlf",
+    "hero": "Benedetta",
+    "skin_name": "Star",
+    "skin_name2": "Maki Zenin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/benedetta%20star%20x%20maki%20zenin.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero973-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170254",
+    "img2": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/benedetta%20x%20maki%20zenin.png",
+    "sort": "3"
   }
 }
