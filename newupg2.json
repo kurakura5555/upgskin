@@ -3478,5 +3478,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero977-portrait.png/revision/latest/scale-to-width-down/150?cb=20240314065930",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/benedetta%20x%20maki%20zenin.png",
     "sort": "7"
+  },
+  "Valentina-kq1locwijt": {
+    "key": "Valentina-kq1locwijt",
+    "hero": "Valentina",
+    "skin_name": "Season",
+    "skin_name2": "Collector",
+    "download": "https://github.com/AnehGamingOfficial/temp-ml/raw/refs/heads/main/temp/AnehGamingOfficial-1el5oaqcxkd123ovdjb2munmoskov%20abyss.zip-o5owlkhyb7/cole.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfakNEapgv_OGvNR9oxbuU8IOSnPv2W5A3H6ZdRCXsDfiI0qKwwc4x6hM&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
+    "sort": "7"
   }
 }
