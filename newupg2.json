@@ -3658,5 +3658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero737-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604141807",
     "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
     "sort": "7"
+  },
+  "Harith-ya1hus01vf": {
+    "key": "Harith-ya1hus01vf",
+    "hero": "Harith",
+    "skin_name": "Christmas",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20christmas%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero738-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114132704",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
+    "sort": "8"
   }
 }
