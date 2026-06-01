@@ -3638,5 +3638,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero736-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165758",
     "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
     "sort": "6"
+  },
+  "Harith-70vl20mc3s": {
+    "key": "Harith-70vl20mc3s",
+    "hero": "Harith",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8b/Hero732-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165754",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
+    "sort": "2"
   }
 }
