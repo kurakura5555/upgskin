@@ -3678,5 +3678,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero739-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073217",
     "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
     "sort": "9"
+  },
+  "Harith-0vexowyt1t": {
+    "key": "Harith-0vexowyt1t",
+    "hero": "Harith",
+    "skin_name": "Lightborn",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20lightborn%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165757",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
+    "sort": "5"
   }
 }
