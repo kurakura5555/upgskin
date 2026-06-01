@@ -3578,5 +3578,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero265-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164853",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20street%20fighter%20painted.png",
     "sort": "5"
+  },
+  "Chou-rarqk95gv5": {
+    "key": "Chou-rarqk95gv5",
+    "hero": "Chou",
+    "skin_name": "Star",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20star%20to%20street%20fighter%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero267-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164855",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20street%20fighter%20painted.png",
+    "sort": "7"
   }
 }
