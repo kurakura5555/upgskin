@@ -3688,5 +3688,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero735-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165757",
     "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
     "sort": "5"
+  },
+  "Harith-flbqytkov9": {
+    "key": "Harith-flbqytkov9",
+    "hero": "Harith",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165755",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
+    "sort": "3"
   }
 }
