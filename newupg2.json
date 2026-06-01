@@ -3698,5 +3698,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero733-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165755",
     "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
     "sort": "3"
+  },
+  "Helcurt-7ivsm90lsj": {
+    "key": "Helcurt-7ivsm90lsj",
+    "hero": "Helcurt",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/helcurt%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero518-portrait.png/revision/latest?cb=20250403122150",
+    "sort": "2"
   }
 }
