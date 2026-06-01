@@ -3518,5 +3518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164259",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20collector2.png",
     "sort": "2"
+  },
+  "Chou-lk20y2lr08": {
+    "key": "Chou-lk20y2lr08",
+    "hero": "Chou",
+    "skin_name": "Basic",
+    "skin_name2": "street fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20basic%20to%20street%20fighter%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20street%20fighter%20painted.png",
+    "sort": "2"
   }
 }
