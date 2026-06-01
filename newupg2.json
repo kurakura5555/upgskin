@@ -3618,5 +3618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170032",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter%20painted.png",
     "sort": "2"
+  },
+  "Harith-phdkm9iu91": {
+    "key": "Harith-phdkm9iu91",
+    "hero": "Harith",
+    "skin_name": "515",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20515%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero734-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165756",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/harith%20star.png",
+    "sort": "4"
   }
 }
