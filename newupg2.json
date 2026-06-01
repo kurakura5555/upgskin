@@ -3748,5 +3748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero515-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917050311",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero518-portrait.png/revision/latest?cb=20250403122150",
     "sort": "5"
+  },
+  "Joy-0pihj7yrsl": {
+    "key": "Joy-0pihj7yrsl",
+    "hero": "Joy",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/joy%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest/scale-to-width-down/150?cb=20221021123853",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/joy%20special.png",
+    "sort": "2"
   }
 }
