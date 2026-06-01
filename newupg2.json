@@ -3548,5 +3548,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/af/Hero264-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164852",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20street%20fighter%20painted.png",
     "sort": "4"
+  },
+  "Chou-t2x6xfgj43": {
+    "key": "Chou-t2x6xfgj43",
+    "hero": "Chou",
+    "skin_name": "Dawning",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20hero%20to%20street%20fighter%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero268-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164856",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20street%20fighter%20painted.png",
+    "sort": "8"
   }
 }
