@@ -3498,5 +3498,15 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfakNEapgv_OGvNR9oxbuU8IOSnPv2W5A3H6ZdRCXsDfiI0qKwwc4x6hM&s=10",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180532",
     "sort": "7"
+  },
+  "Aulus-f7yztjoz4j": {
+    "key": "Aulus-f7yztjoz4j",
+    "hero": "Aulus",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aulus%20basic%20to%20special.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20basic.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20special.png",
+    "sort": "2"
   }
 }
