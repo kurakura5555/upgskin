@@ -3718,5 +3718,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero513-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165334",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero518-portrait.png/revision/latest?cb=20250403122150",
     "sort": "3"
+  },
+  "Helcurt-j0gb3onp8f": {
+    "key": "Helcurt-j0gb3onp8f",
+    "hero": "Helcurt",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/helcurt%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165335",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero518-portrait.png/revision/latest?cb=20250403122150",
+    "sort": "4"
   }
 }
