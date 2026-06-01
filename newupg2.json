@@ -3758,5 +3758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/28/Hero1182-portrait.png/revision/latest/scale-to-width-down/150?cb=20221021123853",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/joy%20special.png",
     "sort": "2"
+  },
+  "Paquito-6dee1q547n": {
+    "key": "Paquito-6dee1q547n",
+    "hero": "Paquito",
+    "skin_name": "Basic",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20basic%20to%20street%20fighter.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter.png",
+    "sort": "2"
   }
 }
