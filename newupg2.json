@@ -3508,5 +3508,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20basic.png",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20special.png",
     "sort": "2"
+  },
+  "Balmond-ylxahn9dbo": {
+    "key": "Balmond-ylxahn9dbo",
+    "hero": "Balmond",
+    "skin_name": "basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/balmond%20basic%20to%20collector2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero022-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164259",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20collector2.png",
+    "sort": "2"
   }
 }
