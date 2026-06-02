@@ -3778,5 +3778,2975 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/68/Hero1032-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170358",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
     "sort": "2"
+  },
+  "Selena-nx7wgvgm4w": {
+    "key": "Selena-nx7wgvgm4w",
+    "hero": "Selena",
+    "skin_name": "Elite",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20elite%20s%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165608",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "7"
+  },
+  "Selena-1t3ia78yid": {
+    "key": "Selena-1t3ia78yid",
+    "hero": "Selena",
+    "skin_name": "Elite",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20elite%20s%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165608",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "7"
+  },
+  "Selena-6o46hprpru": {
+    "key": "Selena-6o46hprpru",
+    "hero": "Selena",
+    "skin_name": "Epic",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20epic%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "sort": "3"
+  },
+  "Selena-hystpw2zrg": {
+    "key": "Selena-hystpw2zrg",
+    "hero": "Selena",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "sort": "3"
+  },
+  "Selena-ocq9c6ib51": {
+    "key": "Selena-ocq9c6ib51",
+    "hero": "Selena",
+    "skin_name": "Epic",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20epic%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "sort": "3"
+  },
+  "Selena-c12sci6a36": {
+    "key": "Selena-c12sci6a36",
+    "hero": "Selena",
+    "skin_name": "Epic",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20epic%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "3"
+  },
+  "Selena-hyw1a6v1p1": {
+    "key": "Selena-hyw1a6v1p1",
+    "hero": "Selena",
+    "skin_name": "Epic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20epic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "3"
+  },
+  "Selena-23pdosqra4": {
+    "key": "Selena-23pdosqra4",
+    "hero": "Selena",
+    "skin_name": "Luckybox",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20luckybox%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "sort": "6"
+  },
+  "Selena-mqvkc6zat1": {
+    "key": "Selena-mqvkc6zat1",
+    "hero": "Selena",
+    "skin_name": "Luckybox",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20luckybox%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "sort": "6"
+  },
+  "Selena-ah3r7bduw8": {
+    "key": "Selena-ah3r7bduw8",
+    "hero": "Selena",
+    "skin_name": "Luckybox",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20luckybox%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "6"
+  },
+  "Selena-tq3wnhki2e": {
+    "key": "Selena-tq3wnhki2e",
+    "hero": "Selena",
+    "skin_name": "Luckybox",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20luckybox%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "6"
+  },
+  "Selena-92orhynp5j": {
+    "key": "Selena-92orhynp5j",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "sort": "5"
+  },
+  "Selena-pt3bpj0jeb": {
+    "key": "Selena-pt3bpj0jeb",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d0/Hero633-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165604",
+    "sort": "5"
+  },
+  "Selena-f1kpyjy4lh": {
+    "key": "Selena-f1kpyjy4lh",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "sort": "5"
+  },
+  "Selena-6yzmv3v9g5": {
+    "key": "Selena-6yzmv3v9g5",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "sort": "5"
+  },
+  "Selena-2vhbitxhn4": {
+    "key": "Selena-2vhbitxhn4",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "5"
+  },
+  "Selena-4v2ubni8dj": {
+    "key": "Selena-4v2ubni8dj",
+    "hero": "Selena",
+    "skin_name": "Star",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20star%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero635-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165606",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "5"
+  },
+  "Selena-nxnhtorhuv": {
+    "key": "Selena-nxnhtorhuv",
+    "hero": "Selena",
+    "skin_name": "Stun",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20stun%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "sort": "8"
+  },
+  "Selena-8xkmsn6z3d": {
+    "key": "Selena-8xkmsn6z3d",
+    "hero": "Selena",
+    "skin_name": "Stun",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20stun%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "sort": "8"
+  },
+  "Selena-pl174izjg5": {
+    "key": "Selena-pl174izjg5",
+    "hero": "Selena",
+    "skin_name": "Stun",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20stun%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "8"
+  },
+  "Selena-olwnl10z7c": {
+    "key": "Selena-olwnl10z7c",
+    "hero": "Selena",
+    "skin_name": "Stun",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20stun%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "8"
+  },
+  "Selena-qhf9s06ml1": {
+    "key": "Selena-qhf9s06ml1",
+    "hero": "Selena",
+    "skin_name": "Zenith",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20zenith%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "sort": "10"
+  },
+  "Selena-b38gn8j0of": {
+    "key": "Selena-b38gn8j0of",
+    "hero": "Selena",
+    "skin_name": "Zenith",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20zenith%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "sort": "10"
+  },
+  "Selena-5vf3t4xrx6": {
+    "key": "Selena-5vf3t4xrx6",
+    "hero": "Selena",
+    "skin_name": "Zenith",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20zenith%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "sort": "10"
+  },
+  "Selena-0t3z116drc": {
+    "key": "Selena-0t3z116drc",
+    "hero": "Selena",
+    "skin_name": "Zodiac",
+    "skin_name2": "Abyss",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20zodiac%20to%20abyss.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero639-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165610",
+    "sort": "4"
+  },
+  "Selena-k4j7ecl8kf": {
+    "key": "Selena-k4j7ecl8kf",
+    "hero": "Selena",
+    "skin_name": "Zodiac",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20zodiac%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4d/Hero636-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165607",
+    "sort": "4"
+  },
+  "Selena-1fsler830z": {
+    "key": "Selena-1fsler830z",
+    "hero": "Selena",
+    "skin_name": "Zodiac",
+    "skin_name2": "Stun",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20zodiac%20to%20stun.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
+    "sort": "4"
+  },
+  "Selena-yz4e6xkqnu": {
+    "key": "Selena-yz4e6xkqnu",
+    "hero": "Selena",
+    "skin_name": "Zodiac",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/selena%20zodiac%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero634-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163409",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero106311-portrait.png/revision/latest/scale-to-width-down/150?cb=20250109163106",
+    "sort": "4"
+  },
+  "Silvana-kjmjeonbna": {
+    "key": "Silvana-kjmjeonbna",
+    "hero": "Silvana",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "2"
+  },
+  "Silvana-mjmq55fbfq": {
+    "key": "Silvana-mjmq55fbfq",
+    "hero": "Silvana",
+    "skin_name": "Basic",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20basic%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "2"
+  },
+  "Silvana-mzy1quhajw": {
+    "key": "Silvana-mzy1quhajw",
+    "hero": "Silvana",
+    "skin_name": "Basic",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20basic%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero902-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170143",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
+    "sort": "2"
+  },
+  "Silvana-lgkwtotrq5": {
+    "key": "Silvana-lgkwtotrq5",
+    "hero": "Silvana",
+    "skin_name": "Collector",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20collector%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "5"
+  },
+  "Silvana-n3nwe2zr1l": {
+    "key": "Silvana-n3nwe2zr1l",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite%20s%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "7"
+  },
+  "Silvana-ec9sbh9bfm": {
+    "key": "Silvana-ec9sbh9bfm",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite%20s%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero907-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125834",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "7"
+  },
+  "Silvana-qno8vn8plk": {
+    "key": "Silvana-qno8vn8plk",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "3"
+  },
+  "Silvana-l3t13b4d1d": {
+    "key": "Silvana-l3t13b4d1d",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "3"
+  },
+  "Silvana-6kwrwi1tie": {
+    "key": "Silvana-6kwrwi1tie",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero903-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170144",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
+    "sort": "3"
+  },
+  "Silvana-y1gttdalx5": {
+    "key": "Silvana-y1gttdalx5",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170147",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "6"
+  },
+  "Silvana-2c5p34eduq": {
+    "key": "Silvana-2c5p34eduq",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite2%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170147",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "6"
+  },
+  "Silvana-w03kgg3k46": {
+    "key": "Silvana-w03kgg3k46",
+    "hero": "Silvana",
+    "skin_name": "Elite",
+    "skin_name2": "Valentine",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20elite2%20to%20valentine.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero906-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170147",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
+    "sort": "6"
+  },
+  "Silvana-z50qboqskh": {
+    "key": "Silvana-z50qboqskh",
+    "hero": "Silvana",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619174651",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "9"
+  },
+  "Silvana-mt6rp4einj": {
+    "key": "Silvana-mt6rp4einj",
+    "hero": "Silvana",
+    "skin_name": "Special",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20special%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b8/Hero909-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619174651",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "9"
+  },
+  "Silvana-bgc5xmxfr2": {
+    "key": "Silvana-bgc5xmxfr2",
+    "hero": "Silvana",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero904-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170145",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "4"
+  },
+  "Silvana-o25fy31lyt": {
+    "key": "Silvana-o25fy31lyt",
+    "hero": "Silvana",
+    "skin_name": "Star",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20star%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero904-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170145",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "4"
+  },
+  "Silvana-rhf942ulxk": {
+    "key": "Silvana-rhf942ulxk",
+    "hero": "Silvana",
+    "skin_name": "Valentine",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20valentine%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero905-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170146",
+    "sort": "8"
+  },
+  "Silvana-ppoe29tmxw": {
+    "key": "Silvana-ppoe29tmxw",
+    "hero": "Silvana",
+    "skin_name": "Valentine",
+    "skin_name2": "Mystic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/silvanna%20valentine%20to%20mystic%20meow.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero908-portrait.png/revision/latest/scale-to-width-down/150?cb=20240202092913",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/81/Hero109010-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052902",
+    "sort": "8"
+  },
+  "Sun-dtuqnr62zl": {
+    "key": "Sun-dtuqnr62zl",
+    "hero": "Sun",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20basic%20s%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "sort": "6"
+  },
+  "Sun-vrfnbedcyj": {
+    "key": "Sun-vrfnbedcyj",
+    "hero": "Sun",
+    "skin_name": "Basic",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20basic%20s%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "sort": "6"
+  },
+  "Sun-766lj634ox": {
+    "key": "Sun-766lj634ox",
+    "hero": "Sun",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20basic%20s%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+    "sort": "6"
+  },
+  "Sun-t1ehx1fmcy": {
+    "key": "Sun-t1ehx1fmcy",
+    "hero": "Sun",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131101410",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "sort": "2"
+  },
+  "Sun-oyrytswo85": {
+    "key": "Sun-oyrytswo85",
+    "hero": "Sun",
+    "skin_name": "Elite",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20elite%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131101410",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "sort": "2"
+  },
+  "Sun-0ourmkia15": {
+    "key": "Sun-0ourmkia15",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "sort": "3"
+  },
+  "Sun-y2el4keuys": {
+    "key": "Sun-y2el4keuys",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "sort": "3"
+  },
+  "Sun-9f7hddogmq": {
+    "key": "Sun-9f7hddogmq",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+    "sort": "3"
+  },
+  "Sun-v44wti82t8": {
+    "key": "Sun-v44wti82t8",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "sort": "4"
+  },
+  "Sun-mouv9tv8jj": {
+    "key": "Sun-mouv9tv8jj",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special2%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
+    "sort": "4"
+  },
+  "Sun-m4y1ozwi6s": {
+    "key": "Sun-m4y1ozwi6s",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special2%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+    "sort": "4"
+  },
+  "Sun-oecj0pzcut": {
+    "key": "Sun-oecj0pzcut",
+    "hero": "Sun",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "sort": "5"
+  },
+  "Terizla-s892yvr2u2": {
+    "key": "Terizla-s892yvr2u2",
+    "hero": "Terizla",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165943",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "2"
+  },
+  "Terizla-37byqx4sei": {
+    "key": "Terizla-37byqx4sei",
+    "hero": "Terizla",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d1/Hero822-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165943",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero826-portrait.png/revision/latest/scale-to-width-down/150?cb=20240417022448",
+    "sort": "2"
+  },
+  "Terizla-23nmcnpe4a": {
+    "key": "Terizla-23nmcnpe4a",
+    "hero": "Terizla",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero823-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165944",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "3"
+  },
+  "Terizla-czv9clbztj": {
+    "key": "Terizla-czv9clbztj",
+    "hero": "Terizla",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero826-portrait.png/revision/latest/scale-to-width-down/150?cb=20240417022448",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "6"
+  },
+  "Terizla-9t580qhe5z": {
+    "key": "Terizla-9t580qhe5z",
+    "hero": "Terizla",
+    "skin_name": "Season",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20season%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/52/Hero825-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165946",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "5"
+  },
+  "Terizla-xl0uuvohbf": {
+    "key": "Terizla-xl0uuvohbf",
+    "hero": "Terizla",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/terizla%20special%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero824-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165945",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/ad/Hero827-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133418",
+    "sort": "4"
+  },
+  "Tigreal-ervtd45zf6": {
+    "key": "Tigreal-ervtd45zf6",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164420",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164423",
+    "sort": "2"
+  },
+  "Tigreal-t5182sgcf": {
+    "key": "Tigreal-t5182sgcf",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164420",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164424",
+    "sort": "2"
+  },
+  "Tigreal-kx4dwdjan2": {
+    "key": "Tigreal-kx4dwdjan2",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9e/Hero062-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164420",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6e/Hero068-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802033731",
+    "sort": "2"
+  },
+  "Tigreal-hibtll9oy7": {
+    "key": "Tigreal-hibtll9oy7",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite2%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164423",
+    "sort": "3"
+  },
+  "Tigreal-h7crn4l4t7": {
+    "key": "Tigreal-h7crn4l4t7",
+    "hero": "Tigreal",
+    "skin_name": "Elite",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20elite2%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero063-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164421",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164424",
+    "sort": "3"
+  },
+  "Tigreal-m73arxt4lm": {
+    "key": "Tigreal-m73arxt4lm",
+    "hero": "Tigreal",
+    "skin_name": "Season",
+    "skin_name2": "Lightborn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20season%20to%20lightborn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9f/Hero065-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164423",
+    "sort": "4"
+  },
+  "Tigreal-hzbn4ohboq": {
+    "key": "Tigreal-hzbn4ohboq",
+    "hero": "Tigreal",
+    "skin_name": "Season",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/tigreal%20season%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b9/Hero064-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero067-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164424",
+    "sort": "4"
+  },
+  "Uranus-hm1dwzruyx": {
+    "key": "Uranus-hm1dwzruyx",
+    "hero": "Uranus",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero592-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165515",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165519",
+    "sort": "2"
+  },
+  "Uranus-0bccs4mjnj": {
+    "key": "Uranus-0bccs4mjnj",
+    "hero": "Uranus",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero592-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165515",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "2"
+  },
+  "Uranus-t6fbdhgfq8": {
+    "key": "Uranus-t6fbdhgfq8",
+    "hero": "Uranus",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165519",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "6"
+  },
+  "Uranus-styt0xguqi": {
+    "key": "Uranus-styt0xguqi",
+    "hero": "Uranus",
+    "skin_name": "Rising",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20rising%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero593-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165516",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "3"
+  },
+  "Uranus-0pgfte9ahx": {
+    "key": "Uranus-0pgfte9ahx",
+    "hero": "Uranus",
+    "skin_name": "Season",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20season%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero597-portrait.png/revision/latest/scale-to-width-down/150?cb=20220903145643",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "7"
+  },
+  "Uranus-b2jdgjwncj": {
+    "key": "Uranus-b2jdgjwncj",
+    "hero": "Uranus",
+    "skin_name": "Season",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20season%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e4/Hero597-portrait.png/revision/latest/scale-to-width-down/150?cb=20220903145643",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero596-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165519",
+    "sort": "7"
+  },
+  "Uranus-o8dykpg8yd": {
+    "key": "Uranus-o8dykpg8yd",
+    "hero": "Uranus",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/uranus%20special%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8c/Hero595-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165518",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/21/Hero594-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165517",
+    "sort": "5"
+  },
+  "Vale-qwc4494t3q": {
+    "key": "Vale-qwc4494t3q",
+    "hero": "Vale",
+    "skin_name": "Basic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20basic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "sort": "2"
+  },
+  "Vale-oqclzx6bcy": {
+    "key": "Vale-oqclzx6bcy",
+    "hero": "Vale",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "sort": "2"
+  },
+  "Vale-f89a3nk6ro": {
+    "key": "Vale-f89a3nk6ro",
+    "hero": "Vale",
+    "skin_name": "Basic",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20basic%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "2"
+  },
+  "Vale-6dvb6z7yau": {
+    "key": "Vale-6dvb6z7yau",
+    "hero": "Vale",
+    "skin_name": "Basic",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20basic%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero662-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165646",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "2"
+  },
+  "Vale-5zgl897aw0": {
+    "key": "Vale-5zgl897aw0",
+    "hero": "Vale",
+    "skin_name": "Annual Star",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20annual%20star%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "8"
+  },
+  "Vale-3b1i0p5rz6": {
+    "key": "Vale-3b1i0p5rz6",
+    "hero": "Vale",
+    "skin_name": "Annual Star",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20annual%20star%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "8"
+  },
+  "Vale-cscv75ghl0": {
+    "key": "Vale-cscv75ghl0",
+    "hero": "Vale",
+    "skin_name": "Collector",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20collector%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "sort": "6"
+  },
+  "Vale-a9nfbysbv3": {
+    "key": "Vale-a9nfbysbv3",
+    "hero": "Vale",
+    "skin_name": "Collector",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20collector%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "6"
+  },
+  "Vale-in3lomxrnl": {
+    "key": "Vale-in3lomxrnl",
+    "hero": "Vale",
+    "skin_name": "Collector",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20collector%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "6"
+  },
+  "Vale-d7u2nkrlao": {
+    "key": "Vale-d7u2nkrlao",
+    "hero": "Vale",
+    "skin_name": "Dawning",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20dawning%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "sort": "3"
+  },
+  "Vale-ztw1ascuqe": {
+    "key": "Vale-ztw1ascuqe",
+    "hero": "Vale",
+    "skin_name": "Dawning",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20dawning%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "3"
+  },
+  "Vale-soklf6mfnm": {
+    "key": "Vale-soklf6mfnm",
+    "hero": "Vale",
+    "skin_name": "Elite",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20elite%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "sort": "4"
+  },
+  "Vale-3vruy4g19m": {
+    "key": "Vale-3vruy4g19m",
+    "hero": "Vale",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "sort": "4"
+  },
+  "Vale-e0306955gd": {
+    "key": "Vale-e0306955gd",
+    "hero": "Vale",
+    "skin_name": "Elite",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20elite%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "4"
+  },
+  "Vale-j6ip50yjqc": {
+    "key": "Vale-j6ip50yjqc",
+    "hero": "Vale",
+    "skin_name": "Elite",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20elite%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero664-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "4"
+  },
+  "Vale-y3fmlfdt34": {
+    "key": "Vale-y3fmlfdt34",
+    "hero": "Vale",
+    "skin_name": "Epic",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20epic%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "sort": "7"
+  },
+  "Vale-cjs3t3ewoj": {
+    "key": "Vale-cjs3t3ewoj",
+    "hero": "Vale",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "sort": "7"
+  },
+  "Vale-yxteuo11t1": {
+    "key": "Vale-yxteuo11t1",
+    "hero": "Vale",
+    "skin_name": "Epic",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20epic%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "7"
+  },
+  "Vale-mgima55d4x": {
+    "key": "Vale-mgima55d4x",
+    "hero": "Vale",
+    "skin_name": "Epic",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20epic%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ea/Hero667-portrait.png/revision/latest/scale-to-width-down/150?cb=20230317102031",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "7"
+  },
+  "Vale-ke9da5ad6e": {
+    "key": "Vale-ke9da5ad6e",
+    "hero": "Vale",
+    "skin_name": "Gaara",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20gaara%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "9"
+  },
+  "Vale-pfz595b256": {
+    "key": "Vale-pfz595b256",
+    "hero": "Vale",
+    "skin_name": "Star",
+    "skin_name2": "Annual Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20star%20to%20annual%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero668-portrait.png/revision/latest/scale-to-width-down/150?cb=20241012142644",
+    "sort": "5"
+  },
+  "Vale-pmrbql1gaw": {
+    "key": "Vale-pmrbql1gaw",
+    "hero": "Vale",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero666-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165650",
+    "sort": "5"
+  },
+  "Vale-9kreloxdum": {
+    "key": "Vale-9kreloxdum",
+    "hero": "Vale",
+    "skin_name": "Star",
+    "skin_name2": "Dawning",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20star%20to%20dawning.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero663-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165647",
+    "sort": "5"
+  },
+  "Vale-tjez1th1ha": {
+    "key": "Vale-tjez1th1ha",
+    "hero": "Vale",
+    "skin_name": "Star",
+    "skin_name2": "Gaara",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vale%20star%20to%20gaara.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero665-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165649",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/89/Hero669-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101445",
+    "sort": "5"
+  },
+  "Valentina-wr8o88yad1": {
+    "key": "Valentina-wr8o88yad1",
+    "hero": "Valentina",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
+    "sort": "2"
+  },
+  "Valentina-4dcnfncuw3": {
+    "key": "Valentina-4dcnfncuw3",
+    "hero": "Valentina",
+    "skin_name": "Basic",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20basic%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180532",
+    "sort": "2"
+  },
+  "Valentina-eaebmh4vzb": {
+    "key": "Valentina-eaebmh4vzb",
+    "hero": "Valentina",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fd/Hero1102-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170523",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035444",
+    "sort": "2"
+  },
+  "Valentina-mb3xwmg6xq": {
+    "key": "Valentina-mb3xwmg6xq",
+    "hero": "Valentina",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/39/Hero1103-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115341",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
+    "sort": "3"
+  },
+  "Valentina-zp1pe8qrl9": {
+    "key": "Valentina-zp1pe8qrl9",
+    "hero": "Valentina",
+    "skin_name": "Msc",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20msc%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/95/Hero1106-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180532",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
+    "sort": "6"
+  },
+  "Valentina-gj7dn93e2m": {
+    "key": "Valentina-gj7dn93e2m",
+    "hero": "Valentina",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valentina%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/42/Hero1104-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero1105-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114153957",
+    "sort": "4"
+  },
+  "Valir-zcnhezo0qb": {
+    "key": "Valir-zcnhezo0qb",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "sort": "2"
+  },
+  "Valir-mydxhbkqu6": {
+    "key": "Valir-mydxhbkqu6",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Dragon Tamer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20dragon%20tamer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "sort": "2"
+  },
+  "Valir-fu8ik9lz1f": {
+    "key": "Valir-fu8ik9lz1f",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "2"
+  },
+  "Valir-ayj5dmabjc": {
+    "key": "Valir-ayj5dmabjc",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "2"
+  },
+  "Valir-m8yfi36egg": {
+    "key": "Valir-m8yfi36egg",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "2"
+  },
+  "Valir-13szcld25h": {
+    "key": "Valir-13szcld25h",
+    "hero": "Valir",
+    "skin_name": "Basic",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20basic%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero572-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165457",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "2"
+  },
+  "Valir-lmzuvpcu7w": {
+    "key": "Valir-lmzuvpcu7w",
+    "hero": "Valir",
+    "skin_name": "Collector",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20collector%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "6"
+  },
+  "Valir-1bivl3folg": {
+    "key": "Valir-1bivl3folg",
+    "hero": "Valir",
+    "skin_name": "Collector",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20collector%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "6"
+  },
+  "Valir-7ei1vpr5ka": {
+    "key": "Valir-7ei1vpr5ka",
+    "hero": "Valir",
+    "skin_name": "Collector",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20collector%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "6"
+  },
+  "Valir-27f44o2em6": {
+    "key": "Valir-27f44o2em6",
+    "hero": "Valir",
+    "skin_name": "Collector",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20collector%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "6"
+  },
+  "Valir-53xb9u97km": {
+    "key": "Valir-53xb9u97km",
+    "hero": "Valir",
+    "skin_name": "Dragon tamer",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20dragon%20tamer%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "sort": "5"
+  },
+  "Valir-eiiqn5izgz": {
+    "key": "Valir-eiiqn5izgz",
+    "hero": "Valir",
+    "skin_name": "Dragon tamer",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20dragon%20tamer%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "5"
+  },
+  "Valir-n4d9odrc9x": {
+    "key": "Valir-n4d9odrc9x",
+    "hero": "Valir",
+    "skin_name": "Dragon tamer",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20dragon%20tamer%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "5"
+  },
+  "Valir-9z7t6jxzme": {
+    "key": "Valir-9z7t6jxzme",
+    "hero": "Valir",
+    "skin_name": "Dragon tamer",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20dragon%20tamer%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "5"
+  },
+  "Valir-c35q875owz": {
+    "key": "Valir-c35q875owz",
+    "hero": "Valir",
+    "skin_name": "Dragon tamer",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20elite%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero575-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "5"
+  },
+  "Valir-5ue4kyp6av": {
+    "key": "Valir-5ue4kyp6av",
+    "hero": "Valir",
+    "skin_name": "Elite",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20elite%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106160149",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "10"
+  },
+  "Valir-dzna0od9x2": {
+    "key": "Valir-dzna0od9x2",
+    "hero": "Valir",
+    "skin_name": "Elite",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20elite%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105710-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106160149",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "10"
+  },
+  "Valir-gxo6ewd0bg": {
+    "key": "Valir-gxo6ewd0bg",
+    "hero": "Valir",
+    "skin_name": "Kof",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20kof%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "11"
+  },
+  "Valir-eon40rivgo": {
+    "key": "Valir-eon40rivgo",
+    "hero": "Valir",
+    "skin_name": "Kof",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20kof%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "11"
+  },
+  "Valir-9k3uuue76i": {
+    "key": "Valir-9k3uuue76i",
+    "hero": "Valir",
+    "skin_name": "Legend",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20legend%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "7"
+  },
+  "Valir-frfl3r8byo": {
+    "key": "Valir-frfl3r8byo",
+    "hero": "Valir",
+    "skin_name": "Legend",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20legend%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "7"
+  },
+  "Valir-985cstp0i5": {
+    "key": "Valir-985cstp0i5",
+    "hero": "Valir",
+    "skin_name": "Legend",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20legend%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "7"
+  },
+  "Valir-jlhwe32yo7": {
+    "key": "Valir-jlhwe32yo7",
+    "hero": "Valir",
+    "skin_name": "Saint Seiya",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20saint%20seiya%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "8"
+  },
+  "Valir-xlgmxlnk81": {
+    "key": "Valir-xlgmxlnk81",
+    "hero": "Valir",
+    "skin_name": "Saint Seiya",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20saint%20seiya%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "8"
+  },
+  "Valir-cbmzpv1i4w": {
+    "key": "Valir-cbmzpv1i4w",
+    "hero": "Valir",
+    "skin_name": "Saint Seiya",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20saint%20seiya2%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "9"
+  },
+  "Valir-7ood4ztc7k": {
+    "key": "Valir-7ood4ztc7k",
+    "hero": "Valir",
+    "skin_name": "Special",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20special%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "3"
+  },
+  "Valir-b1n935bz3l": {
+    "key": "Valir-b1n935bz3l",
+    "hero": "Valir",
+    "skin_name": "Special",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20special%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "3"
+  },
+  "Valir-x0rtz7u695": {
+    "key": "Valir-x0rtz7u695",
+    "hero": "Valir",
+    "skin_name": "Special",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20special%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "3"
+  },
+  "Valir-3bqtrx4prb": {
+    "key": "Valir-3bqtrx4prb",
+    "hero": "Valir",
+    "skin_name": "Special",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20special%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d8/Hero573-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165458",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "3"
+  },
+  "Valir-2mfj7xug82": {
+    "key": "Valir-2mfj7xug82",
+    "hero": "Valir",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9c/Hero576-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165501",
+    "sort": "4"
+  },
+  "Valir-63t6c7wr3g": {
+    "key": "Valir-63t6c7wr3g",
+    "hero": "Valir",
+    "skin_name": "Star",
+    "skin_name2": "Kof",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20star%20to%20kof.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero105711-portrait.png/revision/latest/scale-to-width-down/150?cb=20250106155738",
+    "sort": "4"
+  },
+  "Valir-h0764b8wka": {
+    "key": "Valir-h0764b8wka",
+    "hero": "Valir",
+    "skin_name": "Star",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20star%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero577-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165502",
+    "sort": "4"
+  },
+  "Valir-e3itaxpg5c": {
+    "key": "Valir-e3itaxpg5c",
+    "hero": "Valir",
+    "skin_name": "Star",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20star%20to%20saint%20seiya.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero578-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121951",
+    "sort": "4"
+  },
+  "Valir-xmdsubfdu8": {
+    "key": "Valir-xmdsubfdu8",
+    "hero": "Valir",
+    "skin_name": "Star",
+    "skin_name2": "Saint Seiya",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/valir%20star%20to%20saint%20seiya2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero574-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165459",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero579-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121957",
+    "sort": "4"
+  },
+  "Vexana-4xtbnbuyhu": {
+    "key": "Vexana-4xtbnbuyhu",
+    "hero": "Vexana",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "sort": "2"
+  },
+  "Vexana-pb6eztlwss": {
+    "key": "Vexana-pb6eztlwss",
+    "hero": "Vexana",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134505",
+    "sort": "2"
+  },
+  "Vexana-ahv7wr132u": {
+    "key": "Vexana-ahv7wr132u",
+    "hero": "Vexana",
+    "skin_name": "Basic",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20basic%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero382-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134500",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "sort": "2"
+  },
+  "Vexana-zl3em604nl": {
+    "key": "Vexana-zl3em604nl",
+    "hero": "Vexana",
+    "skin_name": "Collector",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20collector%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "sort": "6"
+  },
+  "Vexana-p6agcqufdc": {
+    "key": "Vexana-p6agcqufdc",
+    "hero": "Vexana",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134505",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "sort": "3"
+  },
+  "Vexana-cii9jce20n": {
+    "key": "Vexana-cii9jce20n",
+    "hero": "Vexana",
+    "skin_name": "Epic",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20epic%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/01/Hero383-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714134505",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "sort": "3"
+  },
+  "Vexana-31c2m81skt": {
+    "key": "Vexana-31c2m81skt",
+    "hero": "Vexana",
+    "skin_name": "Season",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20season%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest/scale-to-width-down/150?cb=20220604034152",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "sort": "4"
+  },
+  "Vexana-27mw23gedp": {
+    "key": "Vexana-27mw23gedp",
+    "hero": "Vexana",
+    "skin_name": "Season",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20season%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest/scale-to-width-down/150?cb=20220604034152",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
+    "sort": "4"
+  },
+  "Vexana-vifvfu869c": {
+    "key": "Vexana-vifvfu869c",
+    "hero": "Vexana",
+    "skin_name": "Season",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20season%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero384-portrait.png/revision/latest/scale-to-width-down/150?cb=20220604034152",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "sort": "4"
+  },
+  "Vexana-s7qkri2q5x": {
+    "key": "Vexana-s7qkri2q5x",
+    "hero": "Vexana",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/a0/Hero386-portrait.png/revision/latest/scale-to-width-down/150?cb=20230917045309",
+    "sort": "5"
+  },
+  "Vexana-6r4rm29d0x": {
+    "key": "Vexana-6r4rm29d0x",
+    "hero": "Vexana",
+    "skin_name": "Star",
+    "skin_name2": "Zenith",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/vexana%20star%20to%20zenith.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a9/Hero385-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134615",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero387-portrait.png/revision/latest/scale-to-width-down/150?cb=20240326141745",
+    "sort": "5"
+  },
+  "Wanwan-ffk670gj11": {
+    "key": "Wanwan-ffk670gj11",
+    "hero": "Wanwan",
+    "skin_name": "Basic",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20basic%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "2"
+  },
+  "Wanwan-4ylzkv8ziz": {
+    "key": "Wanwan-4ylzkv8ziz",
+    "hero": "Wanwan",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "2"
+  },
+  "Wanwan-rhelcotzfv": {
+    "key": "Wanwan-rhelcotzfv",
+    "hero": "Wanwan",
+    "skin_name": "Basic",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20basic%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "sort": "2"
+  },
+  "Wanwan-izxx0no0n4": {
+    "key": "Wanwan-izxx0no0n4",
+    "hero": "Wanwan",
+    "skin_name": "Basic",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20basic%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0d/Hero892-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170126",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "sort": "2"
+  },
+  "Wanwan-qggimokxur": {
+    "key": "Wanwan-qggimokxur",
+    "hero": "Wanwan",
+    "skin_name": "Collector",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20collector%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "5"
+  },
+  "Wanwan-0zy0seef9b": {
+    "key": "Wanwan-0zy0seef9b",
+    "hero": "Wanwan",
+    "skin_name": "Collector",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20collector%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "sort": "5"
+  },
+  "Wanwan-ybwrmke0mc": {
+    "key": "Wanwan-ybwrmke0mc",
+    "hero": "Wanwan",
+    "skin_name": "11.11",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%2011.11%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "8"
+  },
+  "Wanwan-mt5tdmin46": {
+    "key": "Wanwan-mt5tdmin46",
+    "hero": "Wanwan",
+    "skin_name": "11.11",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%2011.11%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "sort": "8"
+  },
+  "Wanwan-0ehfmza6tk": {
+    "key": "Wanwan-0ehfmza6tk",
+    "hero": "Wanwan",
+    "skin_name": "Elite",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20elite%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "3"
+  },
+  "Wanwan-dfxaysurwe": {
+    "key": "Wanwan-dfxaysurwe",
+    "hero": "Wanwan",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "3"
+  },
+  "Wanwan-6lpachh296": {
+    "key": "Wanwan-6lpachh296",
+    "hero": "Wanwan",
+    "skin_name": "Elite",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20elite%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "sort": "3"
+  },
+  "Wanwan-cwkipi6exm": {
+    "key": "Wanwan-cwkipi6exm",
+    "hero": "Wanwan",
+    "skin_name": "Elite",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20elite%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1c/Hero893-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170127",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "sort": "3"
+  },
+  "Wanwan-sl539v5jwq": {
+    "key": "Wanwan-sl539v5jwq",
+    "hero": "Wanwan",
+    "skin_name": "Mpl",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mpl%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "6"
+  },
+  "Wanwan-ixi9zvd6ag": {
+    "key": "Wanwan-ixi9zvd6ag",
+    "hero": "Wanwan",
+    "skin_name": "Mpl",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mpl%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "6"
+  },
+  "Wanwan-eor9j1nbdw": {
+    "key": "Wanwan-eor9j1nbdw",
+    "hero": "Wanwan",
+    "skin_name": "Mpl",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mpl%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero896-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170131",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "sort": "6"
+  },
+  "Wanwan-734bhkz14b": {
+    "key": "Wanwan-734bhkz14b",
+    "hero": "Wanwan",
+    "skin_name": "Mworld",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mworld%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "7"
+  },
+  "Wanwan-8h7of2wexd": {
+    "key": "Wanwan-8h7of2wexd",
+    "hero": "Wanwan",
+    "skin_name": "Mworld",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mworld%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "7"
+  },
+  "Wanwan-3ay4hm5u3s": {
+    "key": "Wanwan-3ay4hm5u3s",
+    "hero": "Wanwan",
+    "skin_name": "Mworld",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20mworld%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "sort": "7"
+  },
+  "Wanwan-idgwmddl8p": {
+    "key": "Wanwan-idgwmddl8p",
+    "hero": "Wanwan",
+    "skin_name": "Star",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20star%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero898-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114143134",
+    "sort": "4"
+  },
+  "Wanwan-8jtb9tqkpw": {
+    "key": "Wanwan-8jtb9tqkpw",
+    "hero": "Wanwan",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero895-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170129",
+    "sort": "4"
+  },
+  "Wanwan-lfo807joig": {
+    "key": "Wanwan-lfo807joig",
+    "hero": "Wanwan",
+    "skin_name": "Star",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20star%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero897-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170132",
+    "sort": "4"
+  },
+  "Wanwan-nyufho7t3n": {
+    "key": "Wanwan-nyufho7t3n",
+    "hero": "Wanwan",
+    "skin_name": "Star",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/wanwan%20star%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2d/Hero894-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero899-portrait.png/revision/latest/scale-to-width-down/150?cb=20250530072025",
+    "sort": "4"
+  },
+  "Xavier-hqwe2lb88m": {
+    "key": "Xavier-hqwe2lb88m",
+    "hero": "Xavier",
+    "skin_name": "Basic",
+    "skin_name2": "Cluods",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20basic%20to%20btc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "sort": "2"
+  },
+  "Xavier-cdg6xu0sd3": {
+    "key": "Xavier-cdg6xu0sd3",
+    "hero": "Xavier",
+    "skin_name": "Basic",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20basic%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5f/Hero1152-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170636",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
+    "sort": "2"
+  },
+  "Xavier-2xsuwfppks": {
+    "key": "Xavier-2xsuwfppks",
+    "hero": "Xavier",
+    "skin_name": "Clouds",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20btc%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
+    "sort": "5"
+  },
+  "Xavier-4cpwr6jlf2": {
+    "key": "Xavier-4cpwr6jlf2",
+    "hero": "Xavier",
+    "skin_name": "Jjk",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20jjk%20to%20btc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "sort": "3"
+  },
+  "Xavier-y8kna67l5s": {
+    "key": "Xavier-y8kna67l5s",
+    "hero": "Xavier",
+    "skin_name": "Star",
+    "skin_name2": "Clouds",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20star%20to%20btc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1155-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043928",
+    "sort": "4"
+  },
+  "Xavier-ll9vgd1q4h": {
+    "key": "Xavier-ll9vgd1q4h",
+    "hero": "Xavier",
+    "skin_name": "Star",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xavier%20star%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero1154-portrait.png/revision/latest/scale-to-width-down/150?cb=20241024133422",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero1153-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035449",
+    "sort": "4"
+  },
+  "X-Borg-h4qtbtmfii": {
+    "key": "X-Borg-h4qtbtmfii",
+    "hero": "X-Borg",
+    "skin_name": "Basic",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20basic%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "sort": "2"
+  },
+  "X-Borg-9tljzt2lqq": {
+    "key": "X-Borg-9tljzt2lqq",
+    "hero": "X-Borg",
+    "skin_name": "Basic",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20basic%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
+    "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
+    "sort": "2"
+  },
+  "X-Borg-n9nn59ybgx": {
+    "key": "X-Borg-n9nn59ybgx",
+    "hero": "X-Borg",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "sort": "2"
+  },
+  "X-Borg-dbphcnc1xh": {
+    "key": "X-Borg-dbphcnc1xh",
+    "hero": "X-Borg",
+    "skin_name": "Basic",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20basic%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero832-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165957",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "sort": "2"
+  },
+  "X-Borg-yivfjy0iyv": {
+    "key": "X-Borg-yivfjy0iyv",
+    "hero": "X-Borg",
+    "skin_name": "11.11",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%2011.11%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
+    "sort": "5"
+  },
+  "X-Borg-tpdxg3rs5c": {
+    "key": "X-Borg-tpdxg3rs5c",
+    "hero": "X-Borg",
+    "skin_name": "11.11",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%2011.11%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "sort": "5"
+  },
+  "X-Borg-kw35344kxh": {
+    "key": "X-Borg-kw35344kxh",
+    "hero": "X-Borg",
+    "skin_name": "Elite",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20elite%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165958",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "sort": "3"
+  },
+  "X-Borg-lo1wzyvmh8": {
+    "key": "X-Borg-lo1wzyvmh8",
+    "hero": "X-Borg",
+    "skin_name": "Elite",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20elite%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165958",
+    "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
+    "sort": "3"
+  },
+  "X-Borg-opajfhu8xe": {
+    "key": "X-Borg-opajfhu8xe",
+    "hero": "X-Borg",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165958",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "sort": "3"
+  },
+  "X-Borg-jq9ude9fh9": {
+    "key": "X-Borg-jq9ude9fh9",
+    "hero": "X-Borg",
+    "skin_name": "Elite",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20elite%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ac/Hero833-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165958",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "sort": "3"
+  },
+  "X-Borg-lm6q8rjudy": {
+    "key": "X-Borg-lm6q8rjudy",
+    "hero": "X-Borg",
+    "skin_name": "Mcgg",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20mcgg%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero837-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053624",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "sort": "7"
+  },
+  "X-Borg-gx8yn47w3h": {
+    "key": "X-Borg-gx8yn47w3h",
+    "hero": "X-Borg",
+    "skin_name": "Mcgg",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20mcgg%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero837-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053624",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "sort": "7"
+  },
+  "X-Borg-spgp2ukxdt": {
+    "key": "X-Borg-spgp2ukxdt",
+    "hero": "X-Borg",
+    "skin_name": "Mcgg",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20mcgg%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero837-portrait.png/revision/latest/scale-to-width-down/150?cb=20220526053624",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "sort": "7"
+  },
+  "X-Borg-9b3wfh1vc1": {
+    "key": "X-Borg-9b3wfh1vc1",
+    "hero": "X-Borg",
+    "skin_name": "Star",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20star%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "sort": "4"
+  },
+  "X-Borg-u5tjue6r32": {
+    "key": "X-Borg-u5tjue6r32",
+    "hero": "X-Borg",
+    "skin_name": "Star",
+    "skin_name2": "Metro Zero",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20star%20to%20metro%20zero.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "img2": "https://i.pinimg.com/736x/03/e5/fc/03e5fc2b7a39823cf0104dd6ecd81bf2.jpg",
+    "sort": "4"
+  },
+  "X-Borg-z4c7emf7oy": {
+    "key": "X-Borg-z4c7emf7oy",
+    "hero": "X-Borg",
+    "skin_name": "Star",
+    "skin_name2": "Transformers",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20star%20to%20transformers.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero834-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165959",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "sort": "4"
+  },
+  "X-Borg-9hwd8xq85e": {
+    "key": "X-Borg-9hwd8xq85e",
+    "hero": "X-Borg",
+    "skin_name": "Transformers",
+    "skin_name2": "11.11",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/xborg%20transformers%20to%2011.11.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/88/Hero836-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170001",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero835-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170000",
+    "sort": "6"
+  },
+  "Yi-Shun-Shin-neb01l76kl": {
+    "key": "Yi-Shun-Shin-neb01l76kl",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "sort": "2"
+  },
+  "Yi-Shun-Shin-fhd30u732m": {
+    "key": "Yi-Shun-Shin-fhd30u732m",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "sort": "2"
+  },
+  "Yi-Shun-Shin-hs8rsyr4pr": {
+    "key": "Yi-Shun-Shin-hs8rsyr4pr",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero302-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164949",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "sort": "2"
+  },
+  "Yi-Shun-Shin-krk1fecjsk": {
+    "key": "Yi-Shun-Shin-krk1fecjsk",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Collector",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20collector%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "sort": "5"
+  },
+  "Yi-Shun-Shin-w2vv4winv3": {
+    "key": "Yi-Shun-Shin-w2vv4winv3",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "sort": "3"
+  },
+  "Yi-Shun-Shin-3j6pzyi5ue": {
+    "key": "Yi-Shun-Shin-3j6pzyi5ue",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "sort": "3"
+  },
+  "Yi-Shun-Shin-gh5pxytfht": {
+    "key": "Yi-Shun-Shin-gh5pxytfht",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20elite%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/58/Hero303-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164950",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "sort": "3"
+  },
+  "Yi-Shun-Shin-qsgnchfmc9": {
+    "key": "Yi-Shun-Shin-qsgnchfmc9",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20elite2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164951",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "sort": "4"
+  },
+  "Yi-Shun-Shin-cm9vxula92": {
+    "key": "Yi-Shun-Shin-cm9vxula92",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20elite2%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164951",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "sort": "4"
+  },
+  "Yi-Shun-Shin-em2qvq69ng": {
+    "key": "Yi-Shun-Shin-em2qvq69ng",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20elite2%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero304-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164951",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "sort": "4"
+  },
+  "Yi-Shun-Shin-5q3hobomcy": {
+    "key": "Yi-Shun-Shin-5q3hobomcy",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Epic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20epic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "sort": "7"
+  },
+  "Yi-Shun-Shin-xerdfp9je0": {
+    "key": "Yi-Shun-Shin-xerdfp9je0",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Season",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20season%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero308-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114092145",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "sort": "8"
+  },
+  "Yi-Shun-Shin-52snknxdhb": {
+    "key": "Yi-Shun-Shin-52snknxdhb",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Season",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20season%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero308-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114092145",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "sort": "8"
+  },
+  "Yi-Shun-Shin-isx04lw7ea": {
+    "key": "Yi-Shun-Shin-isx04lw7ea",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Season",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20season%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d2/Hero308-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114092145",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "sort": "8"
+  },
+  "Yi-Shun-Shin-igqnwb8d5r": {
+    "key": "Yi-Shun-Shin-igqnwb8d5r",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "sort": "6"
+  },
+  "Yi-Shun-Shin-vbsvic0yv4": {
+    "key": "Yi-Shun-Shin-vbsvic0yv4",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20star%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3b/Hero306-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164954",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8a/Hero307-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180302",
+    "sort": "6"
+  },
+  "Yin-o47iofb7rg": {
+    "key": "Yin-o47iofb7rg",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20basic%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "sort": "2"
+  },
+  "Yin-s0pv0fp3at": {
+    "key": "Yin-s0pv0fp3at",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20basic%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "sort": "2"
+  },
+  "Yin-8a971b06pd": {
+    "key": "Yin-8a971b06pd",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20basic%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "sort": "2"
+  },
+  "Yin-ject3i78nz": {
+    "key": "Yin-ject3i78nz",
+    "hero": "Yin",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20basic%20to%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a8/Hero1132-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619154300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1135-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125839",
+    "sort": "2"
+  },
+  "Yin-zmqh9svnjj": {
+    "key": "Yin-zmqh9svnjj",
+    "hero": "Yin",
+    "skin_name": "Jjk",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20jjk%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "sort": "4"
+  },
+  "Yin-k5mvofpurz": {
+    "key": "Yin-k5mvofpurz",
+    "hero": "Yin",
+    "skin_name": "Jjk",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20jjk%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "sort": "4"
+  },
+  "Yin-m5xojvvn6u": {
+    "key": "Yin-m5xojvvn6u",
+    "hero": "Yin",
+    "skin_name": "Jjk",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20jjk%20to%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1135-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125839",
+    "sort": "4"
+  },
+  "Yin-7214clw1z6": {
+    "key": "Yin-7214clw1z6",
+    "hero": "Yin",
+    "skin_name": "Aot",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20aot%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "sort": "6"
+  },
+  "Yin-q3pvmputos": {
+    "key": "Yin-q3pvmputos",
+    "hero": "Yin",
+    "skin_name": "Aot",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20aot%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "sort": "6"
+  },
+  "Yin-hjnfhtx4rs": {
+    "key": "Yin-hjnfhtx4rs",
+    "hero": "Yin",
+    "skin_name": "Mworld",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20mworld%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "sort": "3"
+  },
+  "Yin-fwkqahe2yc": {
+    "key": "Yin-fwkqahe2yc",
+    "hero": "Yin",
+    "skin_name": "Mworld",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20mworld%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "sort": "3"
+  },
+  "Yin-ulvd7aizks": {
+    "key": "Yin-ulvd7aizks",
+    "hero": "Yin",
+    "skin_name": "Mworld",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20mworld%20to%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/4a/Hero1135-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125839",
+    "sort": "3"
+  },
+  "Yin-5re3905ilp": {
+    "key": "Yin-5re3905ilp",
+    "hero": "Yin",
+    "skin_name": "Star",
+    "skin_name2": "Aot",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20star%20to%20aot.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/15/Hero1136-portrait.png/revision/latest/scale-to-width-down/150?cb=20240129101521",
+    "sort": "5"
+  },
+  "Yin-2o1grh8bh9": {
+    "key": "Yin-2o1grh8bh9",
+    "hero": "Yin",
+    "skin_name": "Star",
+    "skin_name2": "Jjk",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20star%20to%20jjk.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero1134-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035447",
+    "sort": "5"
+  },
+  "Yin-9nxy3hv720": {
+    "key": "Yin-9nxy3hv720",
+    "hero": "Yin",
+    "skin_name": "Star",
+    "skin_name2": "Mworld",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yin%20star%20to%20mworld.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero1135-portrait.png/revision/latest/scale-to-width-down/150?cb=20230623125844",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e7/Hero1133-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170605",
+    "sort": "5"
+  },
+  "Yu-Zhong-il66b7m35k": {
+    "key": "Yu-Zhong-il66b7m35k",
+    "hero": "Yu Zhong",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "sort": "2"
+  },
+  "Yu-Zhong-uv1rvgsw0u": {
+    "key": "Yu-Zhong-uv1rvgsw0u",
+    "hero": "Yu Zhong",
+    "skin_name": "Basic",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20basic%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "sort": "2"
+  },
+  "Yu-Zhong-s7xiqfddbl": {
+    "key": "Yu-Zhong-s7xiqfddbl",
+    "hero": "Yu Zhong",
+    "skin_name": "Basic",
+    "skin_name2": "M5",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20basic%20to%20m5.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145027",
+    "sort": "2"
+  },
+  "Yu-Zhong-m5mrfl3i7t": {
+    "key": "Yu-Zhong-m5mrfl3i7t",
+    "hero": "Yu Zhong",
+    "skin_name": "Basic",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20basic%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "sort": "2"
+  },
+  "Yu-Zhong-om7gznasqf": {
+    "key": "Yu-Zhong-om7gznasqf",
+    "hero": "Yu Zhong",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero952-portrait.png/revision/latest/scale-to-width-down/150?cb=20240707063128",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170238",
+    "sort": "2"
+  },
+  "Yu-Zhong-w4zdguz96f": {
+    "key": "Yu-Zhong-w4zdguz96f",
+    "hero": "Yu Zhong",
+    "skin_name": "Collector",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20collector%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "sort": "4"
+  },
+  "Yu-Zhong-a2fwpa2d9g": {
+    "key": "Yu-Zhong-a2fwpa2d9g",
+    "hero": "Yu Zhong",
+    "skin_name": "Collector",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20collector%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "sort": "4"
+  },
+  "Yu-Zhong-4p0wdc8qxw": {
+    "key": "Yu-Zhong-4p0wdc8qxw",
+    "hero": "Yu Zhong",
+    "skin_name": "Exorcist",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20exorcist%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "sort": "5"
+  },
+  "Yu-Zhong-7bkabmr3fi": {
+    "key": "Yu-Zhong-7bkabmr3fi",
+    "hero": "Yu Zhong",
+    "skin_name": "M5",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20m5%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145027",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "sort": "6"
+  },
+  "Yu-Zhong-0zji607xag": {
+    "key": "Yu-Zhong-0zji607xag",
+    "hero": "Yu Zhong",
+    "skin_name": "M5",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20m5%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145027",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "sort": "6"
+  },
+  "Yu-Zhong-3xsli22nl6": {
+    "key": "Yu-Zhong-3xsli22nl6",
+    "hero": "Yu Zhong",
+    "skin_name": "M5",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20m5%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145027",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "sort": "6"
+  },
+  "Yu-Zhong-zhlah07wi6": {
+    "key": "Yu-Zhong-zhlah07wi6",
+    "hero": "Yu Zhong",
+    "skin_name": "Prime",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20prime%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "sort": "7"
+  },
+  "Yu-Zhong-agiupi29au": {
+    "key": "Yu-Zhong-agiupi29au",
+    "hero": "Yu Zhong",
+    "skin_name": "Prime",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20prime%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "sort": "7"
+  },
+  "Yu-Zhong-w3jccgl368": {
+    "key": "Yu-Zhong-w3jccgl368",
+    "hero": "Yu Zhong",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170238",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "sort": "3"
+  },
+  "Yu-Zhong-m6q9kdww0j": {
+    "key": "Yu-Zhong-m6q9kdww0j",
+    "hero": "Yu Zhong",
+    "skin_name": "Star",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20star%20to%20exorcist.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170238",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "sort": "3"
+  },
+  "Yu-Zhong-2h60mauk34": {
+    "key": "Yu-Zhong-2h60mauk34",
+    "hero": "Yu Zhong",
+    "skin_name": "Star",
+    "skin_name2": "Prime",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20star%20to%20prime.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170238",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
+    "sort": "3"
+  },
+  "Yve-trxb4zio5d": {
+    "key": "Yve-trxb4zio5d",
+    "hero": "Yve",
+    "skin_name": "Basic",
+    "skin_name2": "Elite",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yve%20basic%20to%20elite.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170334",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170335",
+    "sort": "2"
+  },
+  "Yve-czpcdoajh5": {
+    "key": "Yve-czpcdoajh5",
+    "hero": "Yve",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yve%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero1012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170334",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIk88Dg9jIrF3VUXeBujsiuhjn2RUEjjqWGQ&usqp=CAU",
+    "sort": "2"
+  },
+  "Yve-3g0q7a83gi": {
+    "key": "Yve-3g0q7a83gi",
+    "hero": "Yve",
+    "skin_name": "Elite",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yve%20elite%20to%20stat.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/66/Hero1013-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170335",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIk88Dg9jIrF3VUXeBujsiuhjn2RUEjjqWGQ&usqp=CAU",
+    "sort": "3"
+  },
+  "Zhask-nov5n4i7gr": {
+    "key": "Zhask-nov5n4i7gr",
+    "hero": "Zhask",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero502-portrait.png/revision/latest?cb=20220525165325",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
+    "sort": "2"
+  },
+  "Zhask-fubzmeqy8o": {
+    "key": "Zhask-fubzmeqy8o",
+    "hero": "Zhask",
+    "skin_name": "Basic",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20basic%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero502-portrait.png/revision/latest?cb=20220525165325",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "sort": "2"
+  },
+  "Zhask-gvqg9oedn5": {
+    "key": "Zhask-gvqg9oedn5",
+    "hero": "Zhask",
+    "skin_name": "Luckybox",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20luckybox%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "sort": "4"
+  },
+  "Zhask-ajgm4dgoe9": {
+    "key": "Zhask-ajgm4dgoe9",
+    "hero": "Zhask",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20special%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
+    "sort": "6"
+  },
+  "Zhask-zj3p9fpm93": {
+    "key": "Zhask-zj3p9fpm93",
+    "hero": "Zhask",
+    "skin_name": "Special",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20special%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cd/Hero505-portrait.png/revision/latest?cb=20220525165329",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "sort": "6"
+  },
+  "Zhask-nbft1p6vy6": {
+    "key": "Zhask-nbft1p6vy6",
+    "hero": "Zhask",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero506-portrait.png/revision/latest?cb=20240923124132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
+    "sort": "5"
+  },
+  "Zhask-adijzokrl5": {
+    "key": "Zhask-adijzokrl5",
+    "hero": "Zhask",
+    "skin_name": "Star",
+    "skin_name2": "Zodiac",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20star%20to%20zodiac.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/91/Hero506-portrait.png/revision/latest?cb=20240923124132",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "sort": "5"
+  },
+  "Zhask-r0a5nabrzz": {
+    "key": "Zhask-r0a5nabrzz",
+    "hero": "Zhask",
+    "skin_name": "Zodiac",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhask%20zodiac%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero504-portrait.png/revision/latest?cb=20230623125728",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero503-portrait.png/revision/latest?cb=20250411101442",
+    "sort": "3"
+  },
+  "Zhuxin-j9pzu0p9wo": {
+    "key": "Zhuxin-j9pzu0p9wo",
+    "hero": "Zhuxin",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zhuxin%20basic%20to%20star%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1252-portrait.png/revision/latest/scale-to-width-down/150?cb=20240815082622",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/90/Hero1253-color01-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073223",
+    "sort": "2"
+  },
+  "Zilong-h5ehwvnlcv": {
+    "key": "Zilong-h5ehwvnlcv",
+    "hero": "Zilong",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "2"
+  },
+  "Zilong-rt0vv8ixag": {
+    "key": "Zilong-rt0vv8ixag",
+    "hero": "Zilong",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "2"
+  },
+  "Zilong-4h19imh7s8": {
+    "key": "Zilong-4h19imh7s8",
+    "hero": "Zilong",
+    "skin_name": "Elite",
+    "skin_name2": "Lunar Fest",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20elite%20to%20lunar%20fest.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0e/Hero162-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164645",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065432",
+    "sort": "2"
+  },
+  "Zilong-4f6rn60ugg": {
+    "key": "Zilong-4f6rn60ugg",
+    "hero": "Zilong",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20elite2%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero165-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "5"
+  },
+  "Zilong-a3gij7sscf": {
+    "key": "Zilong-a3gij7sscf",
+    "hero": "Zilong",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20elite2%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e9/Hero165-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "5"
+  },
+  "Zilong-qm17yq9gkt": {
+    "key": "Zilong-qm17yq9gkt",
+    "hero": "Zilong",
+    "skin_name": "515",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20515%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112731",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "11"
+  },
+  "Zilong-q3gwi2i6kz": {
+    "key": "Zilong-q3gwi2i6kz",
+    "hero": "Zilong",
+    "skin_name": "515",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20515%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b3/Hero101611-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112731",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "11"
+  },
+  "Zilong-0nk78n2d69": {
+    "key": "Zilong-0nk78n2d69",
+    "hero": "Zilong",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20basic%20s%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164652",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "8"
+  },
+  "Zilong-vchs129hy7": {
+    "key": "Zilong-vchs129hy7",
+    "hero": "Zilong",
+    "skin_name": "Basic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20basic%20s%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f1/Hero168-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164652",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "8"
+  },
+  "Zilong-4jh8cuc25l": {
+    "key": "Zilong-4jh8cuc25l",
+    "hero": "Zilong",
+    "skin_name": "Christmas",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20christmas%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164650",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "7"
+  },
+  "Zilong-olpaip2rnl": {
+    "key": "Zilong-olpaip2rnl",
+    "hero": "Zilong",
+    "skin_name": "Christmas",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20christmas%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f2/Hero167-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164650",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "7"
+  },
+  "Zilong-1ifhgreyfc": {
+    "key": "Zilong-1ifhgreyfc",
+    "hero": "Zilong",
+    "skin_name": "Collector",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20collector%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "10"
+  },
+  "Zilong-51cfzfmoj4": {
+    "key": "Zilong-51cfzfmoj4",
+    "hero": "Zilong",
+    "skin_name": "Luckybox",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20luckybox%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "6"
+  },
+  "Zilong-5yczjfj3gh": {
+    "key": "Zilong-5yczjfj3gh",
+    "hero": "Zilong",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20lunar%20fest%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "12"
+  },
+  "Zilong-pg5fb7pgdv": {
+    "key": "Zilong-pg5fb7pgdv",
+    "hero": "Zilong",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20lunar%20fest%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero101612-portrait.png/revision/latest/scale-to-width-down/150?cb=20240130065432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "12"
+  },
+  "Zilong-qeacagxsr8": {
+    "key": "Zilong-qeacagxsr8",
+    "hero": "Zilong",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "4"
+  },
+  "Zilong-gj5k9093kg": {
+    "key": "Zilong-gj5k9093kg",
+    "hero": "Zilong",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero164-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164647",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "4"
+  },
+  "Zilong-q3j0mmpjdv": {
+    "key": "Zilong-q3j0mmpjdv",
+    "hero": "Zilong",
+    "skin_name": "Summer",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20summer%20to%20collector.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJ-V3MopBzrKFpZDRTx1wPy1PmnQHrZnz1SZXyQN84kVwMc-NQAuxo7Q&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/61/Hero101610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220602112648",
+    "sort": "9"
+  },
+  "Zilong-wa8hazj4rk": {
+    "key": "Zilong-wa8hazj4rk",
+    "hero": "Zilong",
+    "skin_name": "Summer",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zilong%20summer%20to%20luckybox.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxJ-V3MopBzrKFpZDRTx1wPy1PmnQHrZnz1SZXyQN84kVwMc-NQAuxo7Q&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero166-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180759",
+    "sort": "9"
+  },
+  "Kalea-st4pzxhunm": {
+    "key": "Kalea-st4pzxhunm",
+    "hero": "Kalea",
+    "skin_name": "Basic",
+    "skin_name2": "Sakura",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/kalea%20basic%20to%20sakura.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/60/Hero1282-portrait.png/revision/latest/scale-to-width-down/150?cb=20250307123931",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero1283-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101453",
+    "sort": "2"
+  },
+  "Thamus-2zptc1z9k1": {
+    "key": "Thamus-2zptc1z9k1",
+    "hero": "Thamus",
+    "skin_name": "Basic",
+    "skin_name2": "Kungfu Panda",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20basic%20to%20kungfu%20panda.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165748",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115335",
+    "sort": "2"
+  },
+  "Thamus-h8ov39880x": {
+    "key": "Thamus-h8ov39880x",
+    "hero": "Thamus",
+    "skin_name": "Basic",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20basic%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero722-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165748",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "sort": "2"
+  },
+  "Thamus-eabk07a4ti": {
+    "key": "Thamus-eabk07a4ti",
+    "hero": "Thamus",
+    "skin_name": "Elite",
+    "skin_name2": "Kungfu Panda",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20elite%20to%20kungfu%20panda.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165749",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115335",
+    "sort": "3"
+  },
+  "Thamus-gyguf3aq5w": {
+    "key": "Thamus-gyguf3aq5w",
+    "hero": "Thamus",
+    "skin_name": "Elite",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20elite%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero723-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165749",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "sort": "3"
+  },
+  "Thamus-3hxah04tms": {
+    "key": "Thamus-3hxah04tms",
+    "hero": "Thamus",
+    "skin_name": "Kungfu Panda",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20kungfu%20panda%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115335",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "sort": "5"
+  },
+  "Thamus-bvwhpva6al": {
+    "key": "Thamus-bvwhpva6al",
+    "hero": "Thamus",
+    "skin_name": "Special",
+    "skin_name2": "Kungfu Panda",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20special%20to%20kungfu%20panda.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165749",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115335",
+    "sort": "4"
+  },
+  "Thamus-cw6vc85h3j": {
+    "key": "Thamus-cw6vc85h3j",
+    "hero": "Thamus",
+    "skin_name": "Special",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20special%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero724-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165749",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "sort": "4"
+  },
+  "Thamus-fx7hz1gmqu": {
+    "key": "Thamus-fx7hz1gmqu",
+    "hero": "Thamus",
+    "skin_name": "Star",
+    "skin_name2": "Kungfu Panda",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20star%20to%20kungfu%20panda.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163423",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/78/Hero725-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115335",
+    "sort": "6"
+  },
+  "Thamus-8o1nce7ce4": {
+    "key": "Thamus-8o1nce7ce4",
+    "hero": "Thamus",
+    "skin_name": "Star",
+    "skin_name2": "Nexus Sea",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/thamuz%20star%20to%20nexus%20sea.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6b/Hero726-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163423",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSytlfwg1WxbyBsaLAAKC6t9-utTsywAKioPQ&usqp=CAU",
+    "sort": "6"
+  },
+  "Ruby-65mmcg5oan": {
+    "key": "Ruby-65mmcg5oan",
+    "hero": "Ruby",
+    "skin_name": "Collector",
+    "skin_name2": "Aspirants",
+    "download": "https://github.com/KANEKIML/UpSkin3/raw/refs/heads/main/ruby%20collector%20to%20aspirants.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d5/Hero297-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043835",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero298-portrait.png/revision/latest/scale-to-width-down/150?cb=20221103134236",
+    "sort": "7"
+  },
+  "Aamon-dhi4tpuutv": {
+    "key": "Aamon-dhi4tpuutv",
+    "hero": "Aamon",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20basic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1092-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170510",
+    "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
+    "sort": "2"
+  },
+  "Aamon-2pxvt9u5im": {
+    "key": "Aamon-2pxvt9u5im",
+    "hero": "Aamon",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20elite%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero1093-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628175950",
+    "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
+    "sort": "3"
+  },
+  "Aamon-xtg3boci18": {
+    "key": "Aamon-xtg3boci18",
+    "hero": "Aamon",
+    "skin_name": "Soul Vessel",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20soul%20vessel%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d7/Hero1095-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619172936",
+    "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
+    "sort": "5"
+  },
+  "Aamon-jreskriy63": {
+    "key": "Aamon-jreskriy63",
+    "hero": "Aamon",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aamon%20star%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero1094-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103151",
+    "img2": "https://pbs.twimg.com/media/Gy7EXHtbsAA8o3l?format=jpg&name=small",
+    "sort": "4"
+  },
+  "Aldous-e3h0wojsrq": {
+    "key": "Aldous-e3h0wojsrq",
+    "hero": "Aldous",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/38/Hero642-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165619",
+    "img2": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKG1pZE66cljQ-VfOdvegowlKMCJVHOBGYAkNF3He4Qrrx8u5EJbqSDjo&s=10",
+    "sort": "2"
+  },
+  "Alice-oln0vu89ts": {
+    "key": "Alice-oln0vu89ts",
+    "hero": "Alice",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20basic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/53/Hero042-portrait.png/revision/latest/scale-to-width-down/150?cb=20250703151404",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20luckybox.jpg",
+    "sort": "2"
+  },
+  "Alice-g34lqm845y": {
+    "key": "Alice-g34lqm845y",
+    "hero": "Alice",
+    "skin_name": "Epic",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20epic%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e1/Hero047-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619180019",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20luckybox.jpg",
+    "sort": "7"
+  },
+  "Alice-he8fpqsemc": {
+    "key": "Alice-he8fpqsemc",
+    "hero": "Alice",
+    "skin_name": "Season",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20season%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero046-portrait.png/revision/latest/scale-to-width-down/150?cb=20221012121053",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20luckybox.jpg",
+    "sort": "6"
+  },
+  "Alice-7mjg5ik3yr": {
+    "key": "Alice-7mjg5ik3yr",
+    "hero": "Alice",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20special%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero044-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164350",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20luckybox.jpg",
+    "sort": "4"
+  },
+  "Alice-lxfbw673lu": {
+    "key": "Alice-lxfbw673lu",
+    "hero": "Alice",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alice%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164352",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20luckybox.jpg",
+    "sort": "5"
   }
 }
