@@ -14998,5 +14998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/92/Hero637-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165608",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/c/cc/Hero638-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165609",
     "sort": "7"
+  },
+  "Chou-knlti7jz1l": {
+    "key": "Chou-knlti7jz1l",
+    "hero": "Chou",
+    "skin_name": "Saint seiya",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20saint%20seiya%20dragon%20to%20street%20fighter.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f7/Hero102610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121509",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20street%20fighter%20painted.png",
+    "sort": "10"
   }
 }
