@@ -15088,5 +15088,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/paquito%20epic.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
     "sort": "10"
+  },
+  "Paquito-v5ofr12h5l": {
+    "key": "Paquito-v5ofr12h5l",
+    "hero": "Paquito",
+    "skin_name": "Epic",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20fmvp%20to%20street%20fighter%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/ff/Hero1039-portrait.png/revision/latest/scale-to-width-down/150?cb=20240920010138",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
+    "sort": "9"
   }
 }
