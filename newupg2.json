@@ -6808,5 +6808,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
     "sort": "12"
+  },
+  "Fanny-idtafn0cpp": {
+    "key": "Fanny-idtafn0cpp",
+    "hero": "Fanny",
+    "skin_name": "Christmas",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20christmas%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
+    "sort": "8"
   }
 }
