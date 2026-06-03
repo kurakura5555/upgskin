@@ -6948,5 +6948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero105613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240619171236",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
     "sort": "12"
+  },
+  "Balmond-p0mvslhg99": {
+    "key": "Balmond-p0mvslhg99",
+    "hero": "Balmond",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/balmond%20elite2%20to%20collector2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20collector2.png",
+    "sort": "4"
   }
 }
