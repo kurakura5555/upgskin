@@ -6918,5 +6918,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
     "sort": "4"
+  },
+  "Gusion-zstcs0mzss": {
+    "key": "Gusion-zstcs0mzss",
+    "hero": "Gusion",
+    "skin_name": "Epic",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20epic%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031432",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
+    "sort": "10"
   }
 }
