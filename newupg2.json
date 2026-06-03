@@ -6818,5 +6818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a3/Hero178-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164708",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
     "sort": "8"
+  },
+  "Fanny-qv1t6rqbg3": {
+    "key": "Fanny-qv1t6rqbg3",
+    "hero": "Fanny",
+    "skin_name": "Aspirants",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20aspirants%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
+    "sort": "10"
   }
 }
