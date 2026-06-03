@@ -15048,5 +15048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a1/Hero858-portrait.png/revision/latest/scale-to-width-down/150?cb=20241207073218",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter%20painted.png",
     "sort": "6"
+  },
+  "Dyrroth-mkgu7diw3j": {
+    "key": "Dyrroth-mkgu7diw3j",
+    "hero": "Dyrroth",
+    "skin_name": "Kof",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/dyrroth%20kof%20to%20street%20fighter%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1d/Hero853-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170033",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter%20painted.png",
+    "sort": "3"
   }
 }
