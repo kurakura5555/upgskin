@@ -6858,5 +6858,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
     "sort": "9"
+  },
+  "Franco-zze4dqitlh": {
+    "key": "Franco-zze4dqitlh",
+    "hero": "Franco",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/franco%20special2%20to%20luckybox.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/franco%20special2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/franco%20luckybox.png",
+    "sort": "11"
   }
 }
