@@ -6848,5 +6848,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero645-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012918",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
     "sort": "5"
+  },
+  "Aldous-hlxzkaheq8": {
+    "key": "Aldous-hlxzkaheq8",
+    "hero": "Aldous",
+    "skin_name": "Mistbebders",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20mistbenders%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7b/Hero649-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114131253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
+    "sort": "9"
   }
 }
