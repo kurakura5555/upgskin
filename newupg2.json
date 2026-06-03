@@ -6778,5 +6778,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero177-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164707",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
     "sort": "7"
+  },
+  "Fanny-z41kjjujr2": {
+    "key": "Fanny-z41kjjujr2",
+    "hero": "Fanny",
+    "skin_name": "Summer",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20summer%20to%20luckybox.zip",
+    "img": "https://pbs.twimg.com/media/GvfSbyBacAA-Nwz?format=jpg&name=small",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
+    "sort": "6"
   }
 }
