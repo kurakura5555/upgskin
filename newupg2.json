@@ -6878,5 +6878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164524",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/franco%20luckybox.png",
     "sort": "3"
+  },
+  "Lesley-d6cquclsij": {
+    "key": "Lesley-d6cquclsij",
+    "hero": "Lesley",
+    "skin_name": "Mystic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/lesley%20mystic%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/lesley%20collector.png",
+    "sort": "12"
   }
 }
