@@ -6908,5 +6908,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
     "sort": "3"
+  },
+  "Gusion-3tpxdwjjl6": {
+    "key": "Gusion-3tpxdwjjl6",
+    "hero": "Gusion",
+    "skin_name": "Star",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20star%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero564-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165446",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
+    "sort": "4"
   }
 }
