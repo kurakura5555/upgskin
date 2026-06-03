@@ -6798,5 +6798,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero101711-portrait.png/revision/latest/scale-to-width-down/150?cb=20230212035453",
     "img2": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20summer%20to%20luckybox.zip",
     "sort": "11"
+  },
+  "Fanny-mq30ro5oiw": {
+    "key": "Fanny-mq30ro5oiw",
+    "hero": "Fanny",
+    "skin_name": "Aot",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20aot%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/20/Hero101712-portrait.png/revision/latest/scale-to-width-down/150?cb=20240127074733",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
+    "sort": "12"
   }
 }
