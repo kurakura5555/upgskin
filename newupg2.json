@@ -6898,5 +6898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest/scale-to-width-down/150?cb=20220909095408",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
     "sort": "2"
+  },
+  "Gusion-giblk5a2hy": {
+    "key": "Gusion-giblk5a2hy",
+    "hero": "Gusion",
+    "skin_name": "Elite",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20elite%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero563-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165444",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
+    "sort": "3"
   }
 }
