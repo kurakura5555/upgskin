@@ -6748,5 +6748,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4e/Hero045-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164352",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alice%20luckybox.jpg",
     "sort": "5"
+  },
+  "Paquito-phvb8pm3ix": {
+    "key": "Paquito-phvb8pm3ix",
+    "hero": "Paquito",
+    "skin_name": "Special",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20special2%20to%20street%20fighter%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/94/Hero1036-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103142",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
+    "sort": "6"
   }
 }
