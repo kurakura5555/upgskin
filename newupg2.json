@@ -6758,5 +6758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/80/Hero096-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164517",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero095-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603013829",
     "sort": "6"
+  },
+  "Fanny-ktmo5v3uvh": {
+    "key": "Fanny-ktmo5v3uvh",
+    "hero": "Fanny",
+    "skin_name": "Anniversary",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fanny%20anniversary%20to%20luckybox.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/fanny%20anniversary.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
+    "sort": "14"
   }
 }
