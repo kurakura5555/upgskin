@@ -6888,5 +6888,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/99/Hero105312-portrait.png/revision/latest/scale-to-width-down/150?cb=20250128052552",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/lesley%20collector.png",
     "sort": "12"
+  },
+  "Gusion-zg8i7i5dys": {
+    "key": "Gusion-zg8i7i5dys",
+    "hero": "Gusion",
+    "skin_name": "Basic",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20basic%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/57/Hero562-portrait.png/revision/latest/scale-to-width-down/150?cb=20220909095408",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
+    "sort": "2"
   }
 }
