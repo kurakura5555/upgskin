@@ -6868,5 +6868,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/franco%20special2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/franco%20luckybox.png",
     "sort": "11"
+  },
+  "Franco-bcpvik75ft": {
+    "key": "Franco-bcpvik75ft",
+    "hero": "Franco",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/franco%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2a/Hero103-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164524",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/franco%20luckybox.png",
+    "sort": "3"
   }
 }
