@@ -6928,5 +6928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/26/Hero105610-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031432",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
     "sort": "10"
+  },
+  "Gusion-x5152yradk": {
+    "key": "Gusion-x5152yradk",
+    "hero": "Gusion",
+    "skin_name": "Valentine",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/gusion%20valentine%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero565-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915121902",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f3/Hero105612-portrait.png/revision/latest?cb=20250128052559",
+    "sort": "5"
   }
 }
