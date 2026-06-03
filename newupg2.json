@@ -6958,5 +6958,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f6/Hero024-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164306",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20collector2.png",
     "sort": "4"
+  },
+  "Balmond-mu3iacn5v6": {
+    "key": "Balmond-mu3iacn5v6",
+    "hero": "Balmond",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/balmond%20special%20to%20collector2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero026-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164313",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20collector2.png",
+    "sort": "6"
   }
 }
