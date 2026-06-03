@@ -6978,5 +6978,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8e/Hero029-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124123",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20collector2.png",
     "sort": "9"
+  },
+  "Balmond-0ag9os5iyb": {
+    "key": "Balmond-0ag9os5iyb",
+    "hero": "Balmond",
+    "skin_name": "Season",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/balmond%20season%20to%20collector2.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20season.png",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/balmond%20collector2.png",
+    "sort": "10"
   }
 }
