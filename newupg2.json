@@ -6828,5 +6828,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d6/Hero101710-portrait.png/revision/latest/scale-to-width-down/150?cb=20220714031230",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/fanny%20luckybox.jpg",
     "sort": "10"
+  },
+  "Aldous-7mvvksrndh": {
+    "key": "Aldous-7mvvksrndh",
+    "hero": "Aldous",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aldous%20special%20to%20collector.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZz8rh4cif6iZhi2QWhkYo7uA2BH6yWInJkHgR5HhQkXI3qrp6e5lECzNG&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bc/Hero647-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165624",
+    "sort": "10"
   }
 }
