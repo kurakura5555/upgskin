@@ -15078,5 +15078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20street%20fighter%20painted.png",
     "sort": "5"
+  },
+  "Paquito-u8iu3dw6ye": {
+    "key": "Paquito-u8iu3dw6ye",
+    "hero": "Paquito",
+    "skin_name": "Epic",
+    "skin_name2": "Street Fighter",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/paquito%20epic%20to%20street%20fighter%20painted.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/paquito%20epic.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/paquito%20street%20fighter%20painted.png",
+    "sort": "10"
   }
 }
