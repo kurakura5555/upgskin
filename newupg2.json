@@ -7078,5 +7078,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero237-portrait.png/revision/latest/scale-to-width-down/150?cb=20240919051020",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
     "sort": "7"
+  },
+  "Gord-lla13ixq41": {
+    "key": "Gord-lla13ixq41",
+    "hero": "Gord",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gord%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7f/Hero232-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045018",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero237-portrait.png/revision/latest/scale-to-width-down/150?cb=20240919051020",
+    "sort": "2"
   }
 }
