@@ -7008,5 +7008,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero443-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165221",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero444-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165222",
     "sort": "3"
+  },
+  "Atlas-awkkh9giqj": {
+    "key": "Atlas-awkkh9giqj",
+    "hero": "Atlas",
+    "skin_name": "Basic",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/atlas%20basic%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170223",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163425",
+    "sort": "2"
   }
 }
