@@ -7018,5 +7018,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170223",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero935-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163425",
     "sort": "2"
+  },
+  "Fredrin-lx3rz4slw2": {
+    "key": "Fredrin-lx3rz4slw2",
+    "hero": "Fredrin",
+    "skin_name": "Star",
+    "skin_name2": "Sparkle",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/fredrinn%20star%20to%20sparkle.zip",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT8igw_8867zd4V77gOBpFcdCI_m2rSUdaBbTNEx0Z3tmnhRbvRebH-C1s&s=10",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/0c/Hero1175-portrait.png/revision/latest/scale-to-width-down/150?cb=20240411075808",
+    "sort": "6"
   }
 }
