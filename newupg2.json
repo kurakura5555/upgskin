@@ -7058,5 +7058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164819",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
     "sort": "5"
+  },
+  "Gord-yvoxtgw1z1": {
+    "key": "Gord-yvoxtgw1z1",
+    "hero": "Gord",
+    "skin_name": "Christmas",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gord%20christmas%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164817",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
+    "sort": "3"
   }
 }
