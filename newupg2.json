@@ -6998,5 +6998,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero442-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604050732",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero444-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165222",
     "sort": "2"
+  },
+  "Grock-jo72mp2ko2": {
+    "key": "Grock-jo72mp2ko2",
+    "hero": "Grock",
+    "skin_name": "Elite",
+    "skin_name2": "Venom",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20elite%20to%20venom.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero443-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165221",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero444-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165222",
+    "sort": "3"
   }
 }
