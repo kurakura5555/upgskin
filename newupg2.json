@@ -7068,5 +7068,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/d9/Hero233-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164817",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
     "sort": "3"
+  },
+  "Gord-f26vo6hakt": {
+    "key": "Gord-f26vo6hakt",
+    "hero": "Gord",
+    "skin_name": "Epic",
+    "skin_name2": "Legend",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gord%20epic%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f4/Hero237-portrait.png/revision/latest/scale-to-width-down/150?cb=20240919051020",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
+    "sort": "7"
   }
 }
