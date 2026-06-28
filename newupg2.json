@@ -7048,5 +7048,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero412-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165155",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/gatotkaca%20special.jpg",
     "sort": "2"
+  },
+  "Gord-qxq45pdqy7": {
+    "key": "Gord-qxq45pdqy7",
+    "hero": "Gord",
+    "skin_name": "Annual Star",
+    "skin_name2": "Legends",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/gord%20annual%20star%20to%20legend.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero235-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164819",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero234-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114091737",
+    "sort": "5"
   }
 }
