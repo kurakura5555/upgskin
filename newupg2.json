@@ -7158,5 +7158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/13/Hero079-portrait.png/revision/latest/scale-to-width-down/150?cb=20220920090132",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alucard%20x%20finn.jpg",
     "sort": "9"
+  },
+  "Alucard-ji69zqmgdn": {
+    "key": "Alucard-ji69zqmgdn",
+    "hero": "Alucard",
+    "skin_name": "Elite",
+    "skin_name2": "Sousuke Aizen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/argus%20elite%20to%20x%20sousuke%20aizen.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165231",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
+    "sort": "4"
   }
 }
