@@ -7128,5 +7128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero100711-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045033",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alucard%20x%20finn.jpg",
     "sort": "11"
+  },
+  "Alucard-epwq0x45if": {
+    "key": "Alucard-epwq0x45if",
+    "hero": "Alucard",
+    "skin_name": "Star",
+    "skin_name2": "Fiin",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/alucar%20star%20to%20x%20finn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/96/Hero075-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164439",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alucard%20x%20finn.jpg",
+    "sort": "7"
   }
 }
