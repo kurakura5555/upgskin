@@ -7118,5 +7118,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/franco%20special2.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f9/Hero107-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052806",
     "sort": "11"
+  },
+  "Alucard-hnu7pfud2w": {
+    "key": "Alucard-hnu7pfud2w",
+    "hero": "Alucard",
+    "skin_name": "Special",
+    "skin_name2": "Finn",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/alucar%20special%20to%20x%20finn.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/51/Hero100711-portrait.png/revision/latest/scale-to-width-down/150?cb=20241123045033",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alucard%20x%20finn.jpg",
+    "sort": "11"
   }
 }
