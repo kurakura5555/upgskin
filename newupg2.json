@@ -7318,5 +7318,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130656",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
     "sort": "3"
+  },
+  "Atlas-dgg1iowpgm": {
+    "key": "Atlas-dgg1iowpgm",
+    "hero": "Atlas",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/atlas%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170223",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alpha%20epic.png",
+    "sort": "2"
   }
 }
