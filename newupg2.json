@@ -7188,5 +7188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165230",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
     "sort": "3"
+  },
+  "Dyrroth-jvi069jftw": {
+    "key": "Dyrroth-jvi069jftw",
+    "hero": "Dyrroth",
+    "skin_name": "Basic",
+    "skin_name2": "Gogopass",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/dyrroth%20basic%20to%20x%20gogopass.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2c/Hero852-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603011249",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20gogopass.jpg",
+    "sort": "2"
   }
 }
