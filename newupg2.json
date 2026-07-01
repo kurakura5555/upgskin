@@ -7448,5 +7448,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/33/Hero809-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165927",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
     "sort": "9"
+  },
+  "Guinevere-cily5iqoqz": {
+    "key": "Guinevere-cily5iqoqz",
+    "hero": "Guinevere",
+    "skin_name": "Aspirant",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20aspirants%20to%20epic%20c.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/guinevere%20aspirants.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
+    "sort": "11"
   }
 }
