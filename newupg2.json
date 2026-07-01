@@ -7298,5 +7298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165231",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
     "sort": "4"
+  },
+  "Argus-i4kf099r1b": {
+    "key": "Argus-i4kf099r1b",
+    "hero": "Argus",
+    "skin_name": "star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20star%20to%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165230",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
+    "sort": "3"
   }
 }
