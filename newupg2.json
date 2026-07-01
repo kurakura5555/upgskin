@@ -7248,5 +7248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165825",
     "img2": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/adventure-time-hey-ice-king/a/a6/JakeHeadshot.jpg?width=325",
     "sort": "2"
+  },
+  "Alpha-8k2uudz29t": {
+    "key": "Alpha-8k2uudz29t",
+    "hero": "Alpha",
+    "skin_name": "Special",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/alpha%20special%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a4/Hero285-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164922",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alpha%20epic.png",
+    "sort": "5"
   }
 }
