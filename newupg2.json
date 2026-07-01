@@ -7328,5 +7328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4f/Hero932-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170223",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alpha%20epic.png",
     "sort": "2"
+  },
+  "Atlas-l5798tccv9": {
+    "key": "Atlas-l5798tccv9",
+    "hero": "Atlas",
+    "skin_name": "Basic",
+    "skin_name2": "Elite",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20elite%20to%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170224",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
+    "sort": "3"
   }
 }
