@@ -7498,5 +7498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cb/Hero804-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165909",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
     "sort": "4"
+  },
+  "Guinevere-dfdzjza6lq": {
+    "key": "Guinevere-dfdzjza6lq",
+    "hero": "Guinevere",
+    "skin_name": "Street Fighter",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20street%20fighter%20to%20epic%20c.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20street%20fighter.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
+    "sort": "12"
   }
 }
