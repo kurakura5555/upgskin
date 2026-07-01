@@ -7428,5 +7428,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
     "sort": "2"
+  },
+  "Guinevere-zqo1uy3m5x": {
+    "key": "Guinevere-zqo1uy3m5x",
+    "hero": "Guinevere",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20elite%20s%20to%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fb/Hero108010-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114135706",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
+    "sort": "10"
   }
 }
