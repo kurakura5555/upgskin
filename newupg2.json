@@ -7358,5 +7358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115339",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
     "sort": "4"
+  },
+  "Helcurt-kohmupi3jo": {
+    "key": "Helcurt-kohmupi3jo",
+    "hero": "Helcurt",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/helcurt%20basic%20to%20special%20painted.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165335",
+    "sort": "2"
   }
 }
