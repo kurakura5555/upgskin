@@ -7458,5 +7458,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/guinevere%20aspirants.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
     "sort": "11"
+  },
+  "Guinevere-e7fycgu9dh": {
+    "key": "Guinevere-e7fycgu9dh",
+    "hero": "Guinevere",
+    "skin_name": "Luckybox",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20luckybox%20to%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a7/Hero806-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165916",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
+    "sort": "6"
   }
 }
