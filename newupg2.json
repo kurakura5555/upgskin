@@ -7278,5 +7278,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/40/Hero287-portrait.png/revision/latest/scale-to-width-down/150?cb=20230805043831",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/alpha%20epic.png",
     "sort": "7"
+  },
+  "Argus-xup1tejvkj": {
+    "key": "Argus-xup1tejvkj",
+    "hero": "Argus",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20basic%20to%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
+    "sort": "2"
   }
 }
