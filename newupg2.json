@@ -7508,5 +7508,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/guinevere%20street%20fighter.png",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
     "sort": "12"
+  },
+  "Guinevere-ldi1izaqhl": {
+    "key": "Guinevere-ldi1izaqhl",
+    "hero": "Guinevere",
+    "skin_name": "Summer",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20summer%20to%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165923",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
+    "sort": "8"
   }
 }
