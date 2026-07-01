@@ -7348,5 +7348,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20elite2.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
     "sort": "7"
+  },
+  "Atlas-l1h62lifdv": {
+    "key": "Atlas-l1h62lifdv",
+    "hero": "Atlas",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/atlas%20star%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero934-portrait.png/revision/latest/scale-to-width-down/150?cb=20220804115339",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
+    "sort": "4"
   }
 }
