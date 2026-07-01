@@ -7218,5 +7218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20gogopass.jpg",
     "sort": "5"
+  },
+  "Argus-072kpnpdwz": {
+    "key": "Argus-072kpnpdwz",
+    "hero": "Argus",
+    "skin_name": "Basic",
+    "skin_name2": "Sousuke Aizen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/argus%20basic%20to%20x%20sousuke%20aizen.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
+    "sort": "2"
   }
 }
