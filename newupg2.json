@@ -7238,5 +7238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
     "sort": "5"
+  },
+  "Khufra-qcvvbort99": {
+    "key": "Khufra-qcvvbort99",
+    "hero": "Khufra",
+    "skin_name": "Basic",
+    "skin_name2": "Jake",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/khufra%20basic%20to%20x%20jake.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero782-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165825",
+    "img2": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/adventure-time-hey-ice-king/a/a6/JakeHeadshot.jpg?width=325",
+    "sort": "2"
   }
 }
