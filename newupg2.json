@@ -7368,5 +7368,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165335",
     "sort": "2"
+  },
+  "Helcurt-d9kh0xibiv": {
+    "key": "Helcurt-d9kh0xibiv",
+    "hero": "Helcurt",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/helcurt%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/76/Hero512-portrait.png/revision/latest/scale-to-width-down/150?cb=20240524095044",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165335",
+    "sort": "2"
   }
 }
