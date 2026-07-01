@@ -7408,5 +7408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/18/Hero514-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165335",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/b/bd/Hero516-portrait.png/revision/latest/scale-to-width-down/150?cb=20240604030306",
     "sort": "4"
+  },
+  "Grock-5rxpfzddpz": {
+    "key": "Grock-5rxpfzddpz",
+    "hero": "Grock",
+    "skin_name": "Venom",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/grock%20venom%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6a/Hero444-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165222",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/6/63/Hero446-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165223",
+    "sort": "4"
   }
 }
