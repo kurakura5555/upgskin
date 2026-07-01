@@ -7338,5 +7338,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/ec/Hero933-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170224",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
     "sort": "3"
+  },
+  "Atlas-eo1nm000rw": {
+    "key": "Atlas-eo1nm000rw",
+    "hero": "Atlas",
+    "skin_name": "Basic",
+    "skin_name2": "Elite",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/atlas%20elite2%20to%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20elite2.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/atlas%20epic.png",
+    "sort": "7"
   }
 }
