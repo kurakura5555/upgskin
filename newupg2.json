@@ -7208,5 +7208,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a5/Hero854-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170034",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20gogopass.jpg",
     "sort": "4"
+  },
+  "Dyrroth-v8qi0oy985": {
+    "key": "Dyrroth-v8qi0oy985",
+    "hero": "Dyrroth",
+    "skin_name": "Venom",
+    "skin_name2": "Gogopass",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/dyrroth%20venom%20to%20x%20gogopass.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1b/Hero856-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170036",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/dyrroth%20x%20gogopass.jpg",
+    "sort": "5"
   }
 }
