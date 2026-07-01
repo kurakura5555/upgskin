@@ -7178,5 +7178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130656",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
     "sort": "6"
+  },
+  "Argus-tl04n5t8ol": {
+    "key": "Argus-tl04n5t8ol",
+    "hero": "Argus",
+    "skin_name": "Star",
+    "skin_name2": "Sousuke Aizen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/argus%20star%20to%20x%20sousuke%20aizen.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165230",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
+    "sort": "3"
   }
 }
