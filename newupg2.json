@@ -7228,5 +7228,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
     "sort": "2"
+  },
+  "Argus-foqxrlku9r": {
+    "key": "Argus-foqxrlku9r",
+    "hero": "Argus",
+    "skin_name": "Starwars",
+    "skin_name2": "Sousuke Aizen",
+    "download": "https://raw.githubusercontent.com/KANEKIML/AnimeSkin/main/argus%20starwars%20to%20x%20sousuke%20aizen.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20sousuke%20aizen.png",
+    "sort": "5"
   }
 }
