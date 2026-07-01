@@ -7288,5 +7288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
     "sort": "2"
+  },
+  "Argus-hu5glrgq1p": {
+    "key": "Argus-hu5glrgq1p",
+    "hero": "Argus",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20elite%20to%20epic%20c.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165231",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero455-portrait.png/revision/latest?cb=20250128052530",
+    "sort": "3"
   }
 }
