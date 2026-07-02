@@ -7618,5 +7618,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/64/Hero053-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164405",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/nana%20epic2.png",
     "sort": "3"
+  },
+  "Zetian-bmvhsdj46n": {
+    "key": "Zetian-bmvhsdj46n",
+    "hero": "Zetian",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zetian%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero1292-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132253",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero1293-portrait.png/revision/latest/scale-to-width-down/250?cb=20",
+    "sort": "2"
   }
 }
