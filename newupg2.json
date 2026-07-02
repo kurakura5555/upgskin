@@ -7668,5 +7668,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero193-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164734",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
     "sort": "3"
+  },
+  "Balerick-u3bne0xre1": {
+    "key": "Balerick-u3bne0xre1",
+    "hero": "Balerick",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/belerick%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero702-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165731",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/belerick%20star.jpg",
+    "sort": "2"
   }
 }
