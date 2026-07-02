@@ -7728,5 +7728,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero956-portrait.png/revision/latest?cb=20250128052538",
     "sort": "5"
+  },
+  "Yu-Zhong-4qaiwlwdzx": {
+    "key": "Yu-Zhong-4qaiwlwdzx",
+    "hero": "Yu Zhong",
+    "skin_name": "M5",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20m5%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7c/Hero957-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145027",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero956-portrait.png/revision/latest?cb=20250128052538",
+    "sort": "6"
   }
 }
