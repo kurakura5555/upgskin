@@ -7628,5 +7628,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2f/Hero1292-portrait.png/revision/latest/scale-to-width-down/150?cb=20250430132253",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero1293-portrait.png/revision/latest/scale-to-width-down/250?cb=20",
     "sort": "2"
+  },
+  "Zetian-aifrehoi1p": {
+    "key": "Zetian-aifrehoi1p",
+    "hero": "Zetian",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/zetian%20star%20to%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zetian%20star.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero1293-portrait.png/revision/latest/scale-to-width-down/250?cb=20251211",
+    "sort": "3"
   }
 }
