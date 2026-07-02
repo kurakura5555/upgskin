@@ -7638,5 +7638,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/zetian%20star.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e6/Hero1293-portrait.png/revision/latest/scale-to-width-down/250?cb=20251211",
     "sort": "3"
+  },
+  "Minotaur-431i6j3ldn": {
+    "key": "Minotaur-431i6j3ldn",
+    "hero": "Minotaur",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/minotaur%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero192-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164733",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
+    "sort": "2"
   }
 }
