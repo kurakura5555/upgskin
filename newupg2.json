@@ -7758,5 +7758,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/47/Hero958-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114145030",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero956-portrait.png/revision/latest?cb=20250128052538",
     "sort": "7"
+  },
+  "Yu-Zhong-cms23g0in8": {
+    "key": "Yu-Zhong-cms23g0in8",
+    "hero": "Yu Zhong",
+    "skin_name": "All Star",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20all%20star%20to%20dragon.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yu%20zhong%20all%20star.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero956-portrait.png/revision/latest?cb=20250128052538",
+    "sort": "8"
   }
 }
