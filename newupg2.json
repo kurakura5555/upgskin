@@ -7708,5 +7708,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/82/Hero953-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170238",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero956-portrait.png/revision/latest?cb=20250128052538",
     "sort": "3"
+  },
+  "Yu-Zhong-kp4hzen4w2": {
+    "key": "Yu-Zhong-kp4hzen4w2",
+    "hero": "Yu Zhong",
+    "skin_name": "Collector",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20collector%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero956-portrait.png/revision/latest?cb=20250128052538",
+    "sort": "4"
   }
 }
