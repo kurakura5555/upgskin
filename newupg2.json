@@ -7678,5 +7678,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/48/Hero702-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165731",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/belerick%20star.jpg",
     "sort": "2"
+  },
+  "Balerick-0kylhps4lt": {
+    "key": "Balerick-0kylhps4lt",
+    "hero": "Balerick",
+    "skin_name": "Special",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/belerick%20special%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero704-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165734",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/belerick%20star.jpg",
+    "sort": "4"
   }
 }
