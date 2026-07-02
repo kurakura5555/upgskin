@@ -7558,5 +7558,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero015-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164225",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero100113-portrait.png/revision/latest?cb=20250128052546",
     "sort": "5"
+  },
+  "Nana-5hwai1kw17": {
+    "key": "Nana-5hwai1kw17",
+    "hero": "Nana",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nana%20elite%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/nana%20epic2.png",
+    "sort": "2"
   }
 }
