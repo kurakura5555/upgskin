@@ -7648,5 +7648,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/bb/Hero192-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164733",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
     "sort": "2"
+  },
+  "Minotaur-swb3ap1pdw": {
+    "key": "Minotaur-swb3ap1pdw",
+    "hero": "Minotaur",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/minotaur%20elite2%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164735",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
+    "sort": "4"
   }
 }
