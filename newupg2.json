@@ -7658,5 +7658,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/d/dc/Hero194-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164735",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
     "sort": "4"
+  },
+  "Minotaur-g9s1ehnp4n": {
+    "key": "Minotaur-g9s1ehnp4n",
+    "hero": "Minotaur",
+    "skin_name": "Season",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/minotaur%20season%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/b/b4/Hero193-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164734",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/minotaur%20epic.jpg",
+    "sort": "3"
   }
 }
