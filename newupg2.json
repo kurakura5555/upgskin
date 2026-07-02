@@ -7568,5 +7568,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/nana%20epic2.png",
     "sort": "2"
+  },
+  "Nana-mesma9du9y": {
+    "key": "Nana-mesma9du9y",
+    "hero": "Nana",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/nana%20elite2%20to%20epic2.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero054-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164406",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/nana%20epic2.png",
+    "sort": "4"
   }
 }
