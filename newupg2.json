@@ -7528,5 +7528,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/2/2e/Hero803-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165906",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/5/5b/Hero108013-portrait.png/revision/latest/scale-to-width-down/250?cb=202512",
     "sort": "3"
+  },
+  "Miya-msrko76zub": {
+    "key": "Miya-msrko76zub",
+    "hero": "Miya",
+    "skin_name": "Basic",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20basic%20s%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero100113-portrait.png/revision/latest?cb=20250128052546",
+    "sort": "9"
   }
 }
