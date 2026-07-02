@@ -7538,5 +7538,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3e/Hero019-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164245",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero100113-portrait.png/revision/latest?cb=20250128052546",
     "sort": "9"
+  },
+  "Miya-ibofmx09su": {
+    "key": "Miya-ibofmx09su",
+    "hero": "Miya",
+    "skin_name": "Elite",
+    "skin_name2": "Dragon",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/miya%20elite%20to%20dragon.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero012-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164206",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9a/Hero100113-portrait.png/revision/latest?cb=20250128052546",
+    "sort": "2"
   }
 }
