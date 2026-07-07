@@ -7948,5 +7948,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero103110-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133752",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
     "sort": "10"
+  },
+  "Moskov-q6ntchrndo": {
+    "key": "Moskov-q6ntchrndo",
+    "hero": "Moskov",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/ae/Hero317-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165005",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
+    "sort": "7"
   }
 }
