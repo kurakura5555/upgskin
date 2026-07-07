@@ -7768,5 +7768,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yu%20zhong%20all%20star.png",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/3/3a/Hero956-portrait.png/revision/latest?cb=20250128052538",
     "sort": "8"
+  },
+  "Yi-Shun-Shin-dy8fyseg7z": {
+    "key": "Yi-Shun-Shin-dy8fyseg7z",
+    "hero": "Yi Shun Shin",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yss%20special%20to%20collector.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yss%20special.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
+    "sort": "9"
   }
 }
