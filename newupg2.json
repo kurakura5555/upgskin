@@ -7788,5 +7788,15 @@
     "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/yu%20zhong%20all%20star.png",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
     "sort": "8"
+  },
+  "Yu-Zhong-wkf4r87gi7": {
+    "key": "Yu-Zhong-wkf4r87gi7",
+    "hero": "Yu Zhong",
+    "skin_name": "Exorcist",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20exorcist%20to%20collector.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "sort": "6"
   }
 }
