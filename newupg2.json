@@ -7808,5 +7808,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7e/Hero148-portrait.png/revision/latest/scale-to-width-down/150?cb=20230316133649",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164613",
     "sort": "8"
+  },
+  "Rafaela-td3iqvi51h": {
+    "key": "Rafaela-td3iqvi51h",
+    "hero": "Rafaela",
+    "skin_name": "Elite",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/rafaela%20elite%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164612",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164613",
+    "sort": "2"
   }
 }
