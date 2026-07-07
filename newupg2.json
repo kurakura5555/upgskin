@@ -7908,5 +7908,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604045858",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
     "sort": "6"
+  },
+  "Moskov-e9swss71st": {
+    "key": "Moskov-e9swss71st",
+    "hero": "Moskov",
+    "skin_name": "Season",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20season%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero314-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165000",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
+    "sort": "4"
   }
 }
