@@ -7898,5 +7898,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero312-portrait.png/revision/latest/scale-to-width-down/150?cb=20240114104739",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
     "sort": "2"
+  },
+  "Moskov-17icuq4tlo": {
+    "key": "Moskov-17icuq4tlo",
+    "hero": "Moskov",
+    "skin_name": "Luckybox",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20luckybox%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/84/Hero316-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604045858",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
+    "sort": "6"
   }
 }
