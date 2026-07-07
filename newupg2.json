@@ -7838,5 +7838,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/62/Hero144-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164614",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164613",
     "sort": "4"
+  },
+  "Rafaela-3u9jv07ed1": {
+    "key": "Rafaela-3u9jv07ed1",
+    "hero": "Rafaela",
+    "skin_name": "Christmas",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/rafaela%20christmas%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c2/Hero147-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164620",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164613",
+    "sort": "7"
   }
 }
