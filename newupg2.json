@@ -7878,5 +7878,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/aa/Hero319-portrait.png/revision/latest/scale-to-width-down/150?cb=20220802032157",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
     "sort": "9"
+  },
+  "Moskov-f104y1oxak": {
+    "key": "Moskov-f104y1oxak",
+    "hero": "Moskov",
+    "skin_name": "All Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20all%20star%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/77/Hero103111-portrait.png/revision/latest/scale-to-width-down/150?cb=20240416092252",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
+    "sort": "11"
   }
 }
