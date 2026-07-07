@@ -7928,5 +7928,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/65/Hero315-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165001",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
     "sort": "5"
+  },
+  "Moskov-0vbnf1e6gh": {
+    "key": "Moskov-0vbnf1e6gh",
+    "hero": "Moskov",
+    "skin_name": "Star",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/moskov%20star%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/f0/Hero313-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164959",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/moskov%20epic.jpg",
+    "sort": "3"
   }
 }
