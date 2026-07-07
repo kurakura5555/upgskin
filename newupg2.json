@@ -7778,5 +7778,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/yss%20special.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/09/Hero305-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164953",
     "sort": "9"
+  },
+  "Yu-Zhong-a2q30fang6": {
+    "key": "Yu-Zhong-a2q30fang6",
+    "hero": "Yu Zhong",
+    "skin_name": "All Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20all%20star%20to%20collector.zip",
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/yu%20zhong%20all%20star.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/1/19/Hero954-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170239",
+    "sort": "8"
   }
 }
