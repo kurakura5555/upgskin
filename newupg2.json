@@ -7818,5 +7818,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/05/Hero142-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164612",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164613",
     "sort": "2"
+  },
+  "Rafaela-ollb532tzi": {
+    "key": "Rafaela-ollb532tzi",
+    "hero": "Rafaela",
+    "skin_name": "Lunar Fest",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/rafaela%20lunar%20fest%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/74/Hero149-portrait.png/revision/latest/scale-to-width-down/150?cb=20241201052808",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/0/00/Hero143-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164613",
+    "sort": "9"
   }
 }
