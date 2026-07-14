@@ -8118,5 +8118,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1262-portrait.png/revision/latest/scale-to-width-down/150?cb=20241002022300",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/suyou%20x%20yota2.png",
     "sort": "2"
+  },
+  "Suyou-hyv7vft3ii": {
+    "key": "Suyou-hyv7vft3ii",
+    "hero": "Suyou",
+    "skin_name": "Basic",
+    "skin_name2": "Sasuke",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/suyou%20basic%20to%20sasuke.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1262-portrait.png/revision/latest/scale-to-width-down/150?cb=20241002022300",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
+    "sort": "2"
   }
 }
