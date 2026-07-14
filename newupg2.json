@@ -8068,5 +8068,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/novaria%20special.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1194-portrait.png/revision/latest?cb=20240923124141",
     "sort": "5"
+  },
+  "Guinevere-wctf4zrcnw": {
+    "key": "Guinevere-wctf4zrcnw",
+    "hero": "Guinevere",
+    "skin_name": "Basic",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20basic%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/8/83/Hero802-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165903",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165923",
+    "sort": "2"
   }
 }
