@@ -8138,5 +8138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604033730",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20star.png",
     "sort": "2"
+  },
+  "Chou-r5bky5fqnc": {
+    "key": "Chou-r5bky5fqnc",
+    "hero": "Chou",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/chou%20basic%20to%20special%20th.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20special%20th.png",
+    "sort": "2"
   }
 }
