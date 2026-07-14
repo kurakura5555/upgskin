@@ -8088,5 +8088,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/14/Hero807-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165920",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165923",
     "sort": "5"
+  },
+  "Guinevere-vbcubnl4g": {
+    "key": "Guinevere-vbcubnl4g",
+    "hero": "Guinevere",
+    "skin_name": "Special",
+    "skin_name2": "Summer",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin2/main/guinevere%20special%20to%20summer.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/3f/Hero805-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165913",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/4/43/Hero808-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165923",
+    "sort": "3"
   }
 }
