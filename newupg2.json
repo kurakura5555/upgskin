@@ -8058,5 +8058,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5c/Hero052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164404",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/nana%20epic%20th.png",
     "sort": "2"
+  },
+  "Novaria-ck83zngkgc": {
+    "key": "Novaria-ck83zngkgc",
+    "hero": "Novaria",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/novaria%20special%20to%20collector.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/novaria%20special.jpg",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/2/24/Hero1194-portrait.png/revision/latest?cb=20240923124141",
+    "sort": "5"
   }
 }
