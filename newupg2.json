@@ -8128,5 +8128,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/32/Hero1262-portrait.png/revision/latest/scale-to-width-down/150?cb=20241002022300",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/9/9d/Hero1263-portrait.png/revision/latest/scale-to-width-down/150?cb=20250411101450",
     "sort": "2"
+  },
+  "Aulus-yu7bsyte4w": {
+    "key": "Aulus-yu7bsyte4w",
+    "hero": "Aulus",
+    "skin_name": "Basic",
+    "skin_name2": "Star",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/aulus%20basic%20to%20star.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/49/Hero1082-portrait.png/revision/latest/scale-to-width-down/150?cb=20260604033730",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/aulus%20star.png",
+    "sort": "2"
   }
 }
