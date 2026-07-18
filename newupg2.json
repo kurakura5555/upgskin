@@ -8218,5 +8218,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero876-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124140",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133611",
     "sort": "6"
+  },
+  "Beatrix-rwfhsvrr7e": {
+    "key": "Beatrix-rwfhsvrr7e",
+    "hero": "Beatrix",
+    "skin_name": "Fmvp",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20fmvp%20to%20epic.zip",
+    "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
+    "sort": "8"
   }
 }
