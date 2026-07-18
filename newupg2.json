@@ -8358,5 +8358,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
     "sort": "3"
+  },
+  "Sun-c72l453huc": {
+    "key": "Sun-c72l453huc",
+    "hero": "Sun",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20star%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero275-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164905",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
+    "sort": "5"
   }
 }
