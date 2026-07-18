@@ -8268,5 +8268,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165230",
     "sort": "2"
+  },
+  "Argus-q7cm74ltmc": {
+    "key": "Argus-q7cm74ltmc",
+    "hero": "Argus",
+    "skin_name": "Starwars",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20starwars%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/5d/Hero456-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165232",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
+    "sort": "5"
   }
 }
