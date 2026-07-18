@@ -8288,5 +8288,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/1/1e/Hero454-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165231",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
     "sort": "4"
+  },
+  "Argus-i7oe7xrk7c": {
+    "key": "Argus-i7oe7xrk7c",
+    "hero": "Argus",
+    "skin_name": "Season",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20season%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130656",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
+    "sort": "6"
   }
 }
