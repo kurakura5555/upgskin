@@ -8138,5 +8138,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/f/fa/Hero262-portrait.png/revision/latest/scale-to-width-down/150?cb=20220719071254",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/chou%20special%20th.png",
     "sort": "2"
+  },
+  "Baxia-en8khm39fa": {
+    "key": "Baxia-en8khm39fa",
+    "hero": "Baxia",
+    "skin_name": "Basic",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/baxia%20basic%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero872-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170056",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
+    "sort": "2"
   }
 }
