@@ -8348,5 +8348,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c5/Hero274-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135455",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
     "sort": "4"
+  },
+  "Sun-551kz30orx": {
+    "key": "Sun-551kz30orx",
+    "hero": "Sun",
+    "skin_name": "Special",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20special%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/45/Hero273-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135350",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
+    "sort": "3"
   }
 }
