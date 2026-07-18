@@ -8198,5 +8198,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero875-portrait.png/revision/latest/scale-to-width-down/150?cb=20241204075653",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133611",
     "sort": "5"
+  },
+  "Baxia-10egd9h495": {
+    "key": "Baxia-10egd9h495",
+    "hero": "Baxia",
+    "skin_name": "Special",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/baxia%20special2%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/9/97/Hero876-portrait.png/revision/latest/scale-to-width-down/150?cb=20240923124140",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
+    "sort": "6"
   }
 }
