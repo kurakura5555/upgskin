@@ -8188,5 +8188,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero875-portrait.png/revision/latest/scale-to-width-down/150?cb=20241204075653",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
     "sort": "5"
+  },
+  "Baxia-mykmlmqdas": {
+    "key": "Baxia-mykmlmqdas",
+    "hero": "Baxia",
+    "skin_name": "Season",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/baxia%20season%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero875-portrait.png/revision/latest/scale-to-width-down/150?cb=20241204075653",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133611",
+    "sort": "5"
   }
 }
