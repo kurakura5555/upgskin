@@ -8158,5 +8158,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero872-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170056",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133611",
     "sort": "2"
+  },
+  "Baxia-lfzvns7d9o": {
+    "key": "Baxia-lfzvns7d9o",
+    "hero": "Baxia",
+    "skin_name": "Elite",
+    "skin_name2": "MSC",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/baxia%20elite%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero872-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170056",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
+    "sort": "3"
   }
 }
