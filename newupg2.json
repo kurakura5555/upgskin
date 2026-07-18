@@ -8298,5 +8298,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e3/Hero457-portrait.png/revision/latest/scale-to-width-down/150?cb=20221118130656",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20collector%20t.png",
     "sort": "6"
+  },
+  "Sun-6smaspwhfh": {
+    "key": "Sun-6smaspwhfh",
+    "hero": "Sun",
+    "skin_name": "Basic",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20basic%20s%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
+    "sort": "6"
   }
 }
