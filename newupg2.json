@@ -8228,5 +8228,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/beatrix%20fmvp.jpg",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
     "sort": "8"
+  },
+  "Beatrix-qjzyg0exa1": {
+    "key": "Beatrix-qjzyg0exa1",
+    "hero": "Beatrix",
+    "skin_name": "Basic",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20basic%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
+    "sort": "2"
   }
 }
