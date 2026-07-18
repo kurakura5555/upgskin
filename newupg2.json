@@ -8238,5 +8238,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/35/Hero1052-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170421",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
     "sort": "2"
+  },
+  "Beatrix-moushsz54i": {
+    "key": "Beatrix-moushsz54i",
+    "hero": "Beatrix",
+    "skin_name": "M4",
+    "skin_name2": "Epic",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/beatrix%20m4%20to%20epic.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
+    "sort": "5"
   }
 }
