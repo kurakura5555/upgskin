@@ -8248,5 +8248,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/6c/Hero1055-portrait.png/revision/latest/scale-to-width-down/150?cb=20221216103144",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/beatrix%20epic.png",
     "sort": "5"
+  },
+  "Argus-l6m8r956vk": {
+    "key": "Argus-l6m8r956vk",
+    "hero": "Argus",
+    "skin_name": "Star",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/argus%20star%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero453-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165230",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20collector%20t.png",
+    "sort": "3"
   }
 }
