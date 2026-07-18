@@ -8148,5 +8148,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero872-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170056",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
     "sort": "2"
+  },
+  "Baxia-fnbkuyu2fk": {
+    "key": "Baxia-fnbkuyu2fk",
+    "hero": "Baxia",
+    "skin_name": "Basic",
+    "skin_name2": "Special",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/baxia%20basic%20to%20special.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/cf/Hero872-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170056",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133611",
+    "sort": "2"
   }
 }
