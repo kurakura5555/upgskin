@@ -8328,5 +8328,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c4/Hero277-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525164910",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
     "sort": "7"
+  },
+  "Sun-qgqjees2kb": {
+    "key": "Sun-qgqjees2kb",
+    "hero": "Sun",
+    "skin_name": "Elite",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20elite%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/0a/Hero272-portrait.png/revision/latest/scale-to-width-down/150?cb=20240131101410",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
+    "sort": "2"
   }
 }
