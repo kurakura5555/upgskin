@@ -8178,5 +8178,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/0/03/Hero873-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525170057",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/e0/Hero874-portrait.png/revision/latest/scale-to-width-down/150?cb=20221111133611",
     "sort": "3"
+  },
+  "Baxia-a5ndjuauc9": {
+    "key": "Baxia-a5ndjuauc9",
+    "hero": "Baxia",
+    "skin_name": "Season",
+    "skin_name2": "Msc",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/baxia%20season%20to%20msc.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/a/a6/Hero875-portrait.png/revision/latest/scale-to-width-down/150?cb=20241204075653",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/baxia%20msc.png",
+    "sort": "5"
   }
 }
