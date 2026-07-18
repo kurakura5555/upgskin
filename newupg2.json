@@ -8308,5 +8308,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/6/69/Hero276-portrait.png/revision/latest/scale-to-width-down/150?cb=20240418090305",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
     "sort": "6"
+  },
+  "Sun-2l89xwbs4a": {
+    "key": "Sun-2l89xwbs4a",
+    "hero": "Sun",
+    "skin_name": "Collector",
+    "skin_name2": "Collector",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/sun%20collector%20to%20collector%20t.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/73/Hero278-portrait.png/revision/latest/scale-to-width-down/150?cb=20220628180003",
+    "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/sun%20collector%20t.png",
+    "sort": "8"
   }
 }
