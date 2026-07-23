@@ -8488,5 +8488,15 @@
     "img": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/refs/heads/main/leomord%20lunar%20fest.jpg",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
     "sort": "10"
+  },
+  "Leomord-cf8nv1k8hz": {
+    "key": "Leomord-cf8nv1k8hz",
+    "hero": "Leomord",
+    "skin_name": "Ducati",
+    "skin_name2": "Luckbox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/leomord%20ducati%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922081612",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
+    "sort": "8"
   }
 }
