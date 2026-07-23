@@ -8408,5 +8408,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135007",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012711",
     "sort": "3"
+  },
+  "Chang-e-yqkc7zjihb": {
+    "key": "Chang-e-yqkc7zjihb",
+    "hero": "Chang e",
+    "skin_name": "Special",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20special%20s%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/7/7a/Hero106111-portrait.png/revision/latest/scale-to-width-down/150?cb=20250522142820",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012711",
+    "sort": "11"
   }
 }
