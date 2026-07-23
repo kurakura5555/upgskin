@@ -8398,5 +8398,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/4c/Hero452-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165229",
     "img2": "https://raw.githubusercontent.com/KANEKIML/FotoSkin/main/argus%20x%20kanpachi.jpg",
     "sort": "2"
+  },
+  "Chang-e-ezkl4cs6hh": {
+    "key": "Chang-e-ezkl4cs6hh",
+    "hero": "Chang e",
+    "skin_name": "Elite",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/change%20elite%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/c/c7/Hero613-portrait.png/revision/latest/scale-to-width-down/150?cb=20240121135007",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/8/8f/Hero615-portrait.png/revision/latest/scale-to-width-down/150?cb=20260603012711",
+    "sort": "3"
   }
 }
