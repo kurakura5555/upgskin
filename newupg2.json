@@ -8508,5 +8508,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165656",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
     "sort": "3"
+  },
+  "Leomord-53w7wj1npq": {
+    "key": "Leomord-53w7wj1npq",
+    "hero": "Leomord",
+    "skin_name": "Msc",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/leomord%20msc%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165657",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
+    "sort": "4"
   }
 }
