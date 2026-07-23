@@ -8498,5 +8498,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/4/41/Hero678-portrait.png/revision/latest/scale-to-width-down/150?cb=20240922081612",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
     "sort": "8"
+  },
+  "Leomord-zp8c2fv8q": {
+    "key": "Leomord-zp8c2fv8q",
+    "hero": "Leomord",
+    "skin_name": "Star",
+    "skin_name2": "Luckybox",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin/main/leomord%20star%20to%20luckybox.zip",
+    "img": "https://static.wikia.nocookie.net/mobile-legends/images/3/34/Hero673-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165656",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
+    "sort": "3"
   }
 }
