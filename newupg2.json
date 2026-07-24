@@ -8518,5 +8518,15 @@
     "img": "https://static.wikia.nocookie.net/mobile-legends/images/5/59/Hero674-portrait.png/revision/latest/scale-to-width-down/150?cb=20220525165657",
     "img2": "https://static.wikia.nocookie.net/mobile-legends/images/e/ed/Hero675-portrait.png/revision/latest/scale-to-width-down/150?cb=20230514163416",
     "sort": "4"
+  },
+  "Yu-Zhong-vpfrg2ytn4": {
+    "key": "Yu-Zhong-vpfrg2ytn4",
+    "hero": "Yu Zhong",
+    "skin_name": "All Star",
+    "skin_name2": "Exorcist",
+    "download": "https://raw.githubusercontent.com/KANEKIML/UpSkin3/main/yu%20zhong%20all%20star%20to%20exorcist.zip",
+    "img": "https://github.com/KANEKIML/FotoSkin/raw/refs/heads/main/yu%20zhong%20all%20star.png",
+    "img2": "https://static.wikia.nocookie.net/mobile-legends/images/f/f8/Hero955-portrait.png/revision/latest/scale-to-width-down/150?cb=20220915122237",
+    "sort": "8"
   }
 }
